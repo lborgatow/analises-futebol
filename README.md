@@ -3,7 +3,7 @@
 ## :star: Métodos
 
 - Obtive o dataset através do Kaggle;
-- Utilizei o Jupyter Notebook para realizar as análises, tratamento dos dados através das bibliotecas Pandas e Numpy e visualização dos dados através das bibliotecas Plotly, Matplotlib e Seaborn.
+- Realização das análises através do Jupyter Notebook, tratamento dos dados através das bibliotecas Pandas e Numpy e visualização dos dados através das bibliotecas Matplotlib e Seaborn.
 
 ## :pushpin: Introdução
 
