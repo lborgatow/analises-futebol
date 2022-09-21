@@ -1,9 +1,10 @@
 # :soccer: Análise de Dados do Brasileirão :soccer:
 
-## :star: Métodos
+## :bulb: Referências
 
-- Obtive o dataset através do Kaggle;
-- Realização das análises através do Jupyter Notebook, tratamento dos dados através das bibliotecas Pandas e Numpy e visualização dos dados através das bibliotecas Matplotlib e Seaborn.
+- Obtive o dataset através do [Kaggle](https://www.kaggle.com/datasets/ricardomattos05/brazilian-soccer-database);
+- Utilizei a linguagem [Python](https://docs.python.org/3/);
+- Realização das análises através do [Jupyter Notebook](https://docs.jupyter.org/en/latest/), tratamento dos dados através das bibliotecas [Pandas](https://pandas.pydata.org/docs/index.html) e [NumPy](https://numpy.org/doc/) e visualização dos dados através das bibliotecas [Matplotlib](https://matplotlib.org/stable/index.html) e [Seaborn](https://seaborn.pydata.org/).
 
 ## :pushpin: Introdução
 
@@ -14,7 +15,7 @@ São 20 equipes na competição, onde cada equipe se enfrenta duas vezes, sendo 
 Para se aprofundar mais na história e funcionamento, [clique aqui](https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol).
 
 ## :checkered_flag: Objetivos
-Este projeto tem por finalidade analisar as partidas e características do clubes do  principal campeonato brasilero de futebol (Brasileirão). Será feita uma análise exploratória dos dados das disputas do campeonato entre 2012 e 2021, com o intuito de compreender melhor os dados e suas utilidades.
+Este projeto tem por finalidade analisar as partidas e características dos clubes do principal campeonato brasilero de futebol (Brasileirão). Será feita uma análise exploratória dos dados das disputas do campeonato entre 2012 e 2021, com o intuito de compreender melhor os dados e suas utilidades.
 
 ## :question: Questionamentos a serem respondidos
 
