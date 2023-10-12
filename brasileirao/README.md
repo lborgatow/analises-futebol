@@ -19,9 +19,9 @@ Este projeto tem por finalidade analisar as partidas e características dos club
 
 ## :question: Questionamentos a serem respondidos
 
-- Quais e quantos times jogaram no Brasileirão durante as 10 temporadas?
+- Quantos e quais times jogaram no Brasileirão durante as 10 temporadas?
 - Quais times disputaram todas as 10 temporadas? Quais disputaram apenas 1?
-- Qual a porcentagem de vitória por time mandante e visitante? E qual a de porcentagem de empate?
-- Quantos pontos cada time acumulou no total durante as 10 temporadas?
-- Quantos gols cada time marcou? Quantos gols feitos em casa e fora?
-- Quais times marcaram mais gols e acumularam mais pontos durante as 10 temporadas?
+- Qual a porcentagem de vitória por time mandante e visitante? E qual a porcentagem de empate?
+- Quantos pontos cada time acumulou no total?
+- Quantos gols cada time marcou e sofreu em casa e fora?
+- Qual os aproveitamento geral de cada time?
