@@ -15,13 +15,13 @@ São 20 equipes na competição, onde cada equipe se enfrenta duas vezes, sendo 
 Para se aprofundar mais na história e funcionamento, [clique aqui](https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol).
 
 ## :checkered_flag: Objetivos
-Este projeto tem por finalidade analisar as partidas e características dos clubes do principal campeonato brasilero de futebol (Brasileirão). Será feita uma análise exploratória dos dados das disputas do campeonato entre 2012 e 2021, com o intuito de compreender melhor os dados e suas utilidades.
+Este projeto tem por finalidade analisar as partidas e características dos clubes do principal campeonato brasileiro de futebol (Brasileirão). Será feita uma análise exploratória dos dados das disputas do campeonato entre 2012 e 2021, com o intuito de compreender melhor os dados e suas utilidades.
 
 ## :question: Questionamentos a serem respondidos
 
-- Quais e quantos times jogaram no Brasileirão durante as 10 temporadas?
+- Quantos e quais times jogaram no Brasileirão durante as 10 temporadas?
 - Quais times disputaram todas as 10 temporadas? Quais disputaram apenas 1?
-- Qual a porcentagem de vitória por time mandante e visitante? E qual a de porcentagem de empate?
-- Quantos pontos cada time acumulou no total durante as 10 temporadas?
-- Quantos gols cada time marcou? Quantos gols feitos em casa e fora?
-- Quais times marcaram mais gols e acumularam mais pontos durante as 10 temporadas?
+- Qual a porcentagem de vitória por time mandante e visitante? E qual a porcentagem de empate?
+- Quantos pontos cada time acumulou no total?
+- Quantos gols cada time marcou e sofreu em casa e fora?
+- Qual os aproveitamento geral de cada time?
