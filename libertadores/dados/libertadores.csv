@@ -1,0 +1,1257 @@
+temporada;data_jogo;fase;time_casa;time_fora;gols_casa;gols_fora;placar;resultado
+2013;2013-02-12 20:15:00;fase de grupos;Nacional (URU);Barcelona-EQU;2;2;2-2;Empate
+2013;2013-02-13 22:00:00;fase de grupos;Boca Juniors;Toluca;1;2;1-2;Vitória Fora
+2013;2013-02-19 23:45:00;fase de grupos;Toluca;Nacional (URU);2;3;2-3;Vitória Fora
+2013;2013-02-27 19:45:00;fase de grupos;Barcelona-EQU;Boca Juniors;1;2;1-2;Vitória Fora
+2013;2013-03-07 00:15:00;fase de grupos;Toluca;Barcelona-EQU;1;1;1-1;Empate
+2013;2013-03-07 21:30:00;fase de grupos;Boca Juniors;Nacional (URU);0;1;0-1;Vitória Fora
+2013;2013-03-13 19:45:00;fase de grupos;Barcelona-EQU;Toluca;0;0;0-0;Empate
+2013;2013-03-14 19:15:00;fase de grupos;Nacional (URU);Boca Juniors;0;1;0-1;Vitória Fora
+2013;2013-04-03 19:45:00;fase de grupos;Boca Juniors;Barcelona-EQU;1;0;1-0;Vitória Casa
+2013;2013-04-04 19:15:00;fase de grupos;Nacional (URU);Toluca;4;0;4-0;Vitória Casa
+2013;2013-04-17 19:45:00;fase de grupos;Barcelona-EQU;Nacional (URU);1;0;1-0;Vitória Casa
+2013;2013-04-17 19:45:00;fase de grupos;Toluca;Boca Juniors;3;2;3-2;Vitória Casa
+2013;2013-02-14 22:00:00;fase de grupos;Palmeiras;Sporting Cristal;2;1;2-1;Vitória Casa
+2013;2013-02-21 21:30:00;fase de grupos;Tigre;Libertad;0;2;0-2;Vitória Fora
+2013;2013-02-28 17:00:00;fase de grupos;Sporting Cristal;Tigre;2;0;2-0;Vitória Casa
+2013;2013-02-28 19:15:00;fase de grupos;Libertad;Palmeiras;2;0;2-0;Vitória Casa
+2013;2013-03-06 19:45:00;fase de grupos;Libertad;Sporting Cristal;2;2;2-2;Empate
+2013;2013-03-06 19:45:00;fase de grupos;Tigre;Palmeiras;1;0;1-0;Vitória Casa
+2013;2013-03-12 19:15:00;fase de grupos;Sporting Cristal;Libertad;1;1;1-1;Empate
+2013;2013-04-02 21:30:00;fase de grupos;Palmeiras;Tigre;2;0;2-0;Vitória Casa
+2013;2013-04-09 21:30:00;fase de grupos;Tigre;Sporting Cristal;3;1;3-1;Vitória Casa
+2013;2013-04-11 19:15:00;fase de grupos;Palmeiras;Libertad;1;0;1-0;Vitória Casa
+2013;2013-04-18 19:45:00;fase de grupos;Libertad;Tigre;3;5;3-5;Vitória Fora
+2013;2013-04-18 19:45:00;fase de grupos;Sporting Cristal;Palmeiras;1;0;1-0;Vitória Casa
+2013;2013-02-13 22:00:00;fase de grupos;Atlético-MG;São Paulo;2;1;2-1;Vitória Casa
+2013;2013-02-14 22:00:00;fase de grupos;The Strongest;Arsenal Sarandí;2;1;2-1;Vitória Casa
+2013;2013-02-26 21:45:00;fase de grupos;Arsenal Sarandí;Atlético-MG;2;5;2-5;Vitória Fora
+2013;2013-02-28 21:30:00;fase de grupos;São Paulo;The Strongest;2;1;2-1;Vitória Casa
+2013;2013-03-07 19:15:00;fase de grupos;São Paulo;Arsenal Sarandí;1;1;1-1;Empate
+2013;2013-03-07 21:30:00;fase de grupos;Atlético-MG;The Strongest;2;1;2-1;Vitória Casa
+2013;2013-03-13 22:00:00;fase de grupos;The Strongest;Atlético-MG;1;2;1-2;Vitória Fora
+2013;2013-03-14 21:30:00;fase de grupos;Arsenal Sarandí;São Paulo;2;1;2-1;Vitória Casa
+2013;2013-04-03 22:00:00;fase de grupos;Atlético-MG;Arsenal Sarandí;5;2;5-2;Vitória Casa
+2013;2013-04-04 21:30:00;fase de grupos;The Strongest;São Paulo;2;1;2-1;Vitória Casa
+2013;2013-04-17 22:00:00;fase de grupos;Arsenal Sarandí;The Strongest;2;1;2-1;Vitória Casa
+2013;2013-04-17 22:00:00;fase de grupos;São Paulo;Atlético-MG;2;0;2-0;Vitória Casa
+2013;2013-02-12 22:30:00;fase de grupos;Emelec;Vélez Sarsfield;1;0;1-0;Vitória Casa
+2013;2013-02-13 19:30:00;fase de grupos;Deportes Iquique;Peñarol;1;2;1-2;Vitória Fora
+2013;2013-02-19 19:15:00;fase de grupos;Peñarol;Emelec;1;0;1-0;Vitória Casa
+2013;2013-02-20 19:45:00;fase de grupos;Vélez Sarsfield;Deportes Iquique;3;0;3-0;Vitória Casa
+2013;2013-02-26 19:30:00;fase de grupos;Peñarol;Vélez Sarsfield;0;1;0-1;Vitória Fora
+2013;2013-02-27 19:45:00;fase de grupos;Deportes Iquique;Emelec;2;0;2-0;Vitória Casa
+2013;2013-03-05 23:45:00;fase de grupos;Emelec;Deportes Iquique;2;1;2-1;Vitória Casa
+2013;2013-03-12 19:15:00;fase de grupos;Vélez Sarsfield;Peñarol;3;1;3-1;Vitória Casa
+2013;2013-04-02 19:15:00;fase de grupos;Deportes Iquique;Vélez Sarsfield;1;3;1-3;Vitória Fora
+2013;2013-04-02 23:45:00;fase de grupos;Emelec;Peñarol;2;0;2-0;Vitória Casa
+2013;2013-04-09 19:15:00;fase de grupos;Peñarol;Deportes Iquique;3;0;3-0;Vitória Casa
+2013;2013-04-09 19:15:00;fase de grupos;Vélez Sarsfield;Emelec;0;0;0-0;Empate
+2013;2013-02-19 21:30:00;fase de grupos;Millonarios;Tijuana;0;1;0-1;Vitória Fora
+2013;2013-02-20 22:00:00;fase de grupos;San José;Corinthians;1;1;1-1;Empate
+2013;2013-02-27 00:15:00;fase de grupos;Tijuana;San José;4;0;4-0;Vitória Casa
+2013;2013-02-27 22:00:00;fase de grupos;Corinthians;Millonarios;2;0;2-0;Vitória Casa
+2013;2013-03-05 21:30:00;fase de grupos;Millonarios;San José;2;1;2-1;Vitória Casa
+2013;2013-03-06 22:00:00;fase de grupos;Tijuana;Corinthians;1;0;1-0;Vitória Casa
+2013;2013-03-13 22:00:00;fase de grupos;Corinthians;Tijuana;3;0;3-0;Vitória Casa
+2013;2013-03-14 21:30:00;fase de grupos;San José;Millonarios;2;0;2-0;Vitória Casa
+2013;2013-04-03 19:45:00;fase de grupos;San José;Tijuana;1;1;1-1;Empate
+2013;2013-04-03 22:00:00;fase de grupos;Millonarios;Corinthians;0;1;0-1;Vitória Fora
+2013;2013-04-10 22:00:00;fase de grupos;Corinthians;San José;3;0;3-0;Vitória Casa
+2013;2013-04-10 22:00:00;fase de grupos;Tijuana;Millonarios;1;0;1-0;Vitória Casa
+2013;2013-02-14 00:15:00;fase de grupos;Real Atlético;Ind. Santa Fe;1;1;1-1;Empate
+2013;2013-02-15 00:15:00;fase de grupos;Deportes Tolima;Cerro Porteño;2;1;2-1;Vitória Casa
+2013;2013-02-21 19:15:00;fase de grupos;Cerro Porteño;Real Atlético;0;1;0-1;Vitória Fora
+2013;2013-02-21 21:30:00;fase de grupos;Ind. Santa Fe;Deportes Tolima;1;1;1-1;Empate
+2013;2013-02-26 21:45:00;fase de grupos;Deportes Tolima;Real Atlético;0;1;0-1;Vitória Fora
+2013;2013-03-07 19:15:00;fase de grupos;Cerro Porteño;Ind. Santa Fe;1;2;1-2;Vitória Fora
+2013;2013-04-02 19:15:00;fase de grupos;Real Atlético;Deportes Tolima;0;3;0-3;Vitória Fora
+2013;2013-04-02 21:30:00;fase de grupos;Ind. Santa Fe;Cerro Porteño;1;0;1-0;Vitória Casa
+2013;2013-04-09 21:30:00;fase de grupos;Deportes Tolima;Ind. Santa Fe;1;2;1-2;Vitória Fora
+2013;2013-04-10 19:45:00;fase de grupos;Real Atlético;Cerro Porteño;5;1;5-1;Vitória Casa
+2013;2013-04-16 21:15:00;fase de grupos;Cerro Porteño;Deportes Tolima;0;0;0-0;Empate
+2013;2013-04-16 21:15:00;fase de grupos;Ind. Santa Fe;Real Atlético;2;0;2-0;Vitória Casa
+2013;2013-02-12 22:30:00;fase de grupos;Universidad de Chile;Deportivo Lara;2;0;2-0;Vitória Casa
+2013;2013-02-14 19:45:00;fase de grupos;Newells Old Boys;Olimpia-PAR;3;1;3-1;Vitória Casa
+2013;2013-02-19 21:30:00;fase de grupos;Olimpia-PAR;Universidad de Chile;3;0;3-0;Vitória Casa
+2013;2013-02-21 19:15:00;fase de grupos;Deportivo Lara;Newells Old Boys;2;1;2-1;Vitória Casa
+2013;2013-03-05 19:15:00;fase de grupos;Olimpia-PAR;Deportivo Lara;2;2;2-2;Empate
+2013;2013-03-05 19:15:00;fase de grupos;Newells Old Boys;Universidad de Chile;1;2;1-2;Vitória Fora
+2013;2013-03-12 21:30:00;fase de grupos;Universidad de Chile;Newells Old Boys;0;2;0-2;Vitória Fora
+2013;2013-03-13 19:45:00;fase de grupos;Deportivo Lara;Olimpia-PAR;1;5;1-5;Vitória Fora
+2013;2013-04-04 19:15:00;fase de grupos;Newells Old Boys;Deportivo Lara;3;1;3-1;Vitória Casa
+2013;2013-04-04 21:30:00;fase de grupos;Universidad de Chile;Olimpia-PAR;0;1;0-1;Vitória Fora
+2013;2013-04-11 21:30:00;fase de grupos;Deportivo Lara;Universidad de Chile;2;3;2-3;Vitória Fora
+2013;2013-04-11 21:30:00;fase de grupos;Olimpia-PAR;Newells Old Boys;4;1;4-1;Vitória Casa
+2013;2013-02-13 22:00:00;fase de grupos;Caracas;Fluminense;0;1;0-1;Vitória Fora
+2013;2013-02-14 19:45:00;fase de grupos;Grêmio;Huachipato;1;2;1-2;Vitória Fora
+2013;2013-02-20 19:45:00;fase de grupos;Huachipato;Caracas;1;3;1-3;Vitória Fora
+2013;2013-02-20 22:00:00;fase de grupos;Fluminense;Grêmio;0;3;0-3;Vitória Fora
+2013;2013-02-27 22:00:00;fase de grupos;Huachipato;Fluminense;1;2;1-2;Vitória Fora
+2013;2013-03-05 21:30:00;fase de grupos;Grêmio;Caracas;4;1;4-1;Vitória Casa
+2013;2013-03-06 22:00:00;fase de grupos;Fluminense;Huachipato;1;1;1-1;Empate
+2013;2013-03-12 21:30:00;fase de grupos;Caracas;Grêmio;2;1;2-1;Vitória Casa
+2013;2013-04-03 19:45:00;fase de grupos;Caracas;Huachipato;0;4;0-4;Vitória Fora
+2013;2013-04-10 22:00:00;fase de grupos;Grêmio;Fluminense;0;0;0-0;Empate
+2013;2013-04-18 22:00:00;fase de grupos;Huachipato;Grêmio;1;1;1-1;Empate
+2013;2013-04-18 22:00:00;fase de grupos;Fluminense;Caracas;1;0;1-0;Vitória Casa
+2013;2013-07-17 21:50:00;final;Olimpia-PAR;Atlético-MG;2;0;2-0;Vitória Casa
+2013;2013-07-24 21:50:00;final;Atlético-MG;Olimpia-PAR;2;0;2-0;Vitória Casa
+2013;2013-07-03 21:50:00;semifinal;Newells Old Boys;Atlético-MG;2;0;2-0;Vitória Casa
+2013;2013-07-10 21:50:00;semifinal;Atlético-MG;Newells Old Boys;2;0;2-0;Vitória Casa
+2013;2013-07-02 21:50:00;semifinal;Olimpia-PAR;Ind. Santa Fe;2;0;2-0;Vitória Casa
+2013;2013-07-09 21:50:00;semifinal;Ind. Santa Fe;Olimpia-PAR;1;0;1-0;Vitória Casa
+2013;2013-05-23 21:30:00;quarterfinals;Tijuana;Atlético-MG;2;2;2-2;Empate
+2013;2013-05-30 22:00:00;quarterfinals;Atlético-MG;Tijuana;1;1;1-1;Empate
+2013;2013-05-23 21:30:00;quarterfinals;Boca Juniors;Newells Old Boys;0;0;0-0;Empate
+2013;2013-05-29 19:30:00;quarterfinals;Newells Old Boys;Boca Juniors;0;0;0-0;Empate
+2013;2013-05-22 19:45:00;quarterfinals;Real Atlético;Ind. Santa Fe;1;3;1-3;Vitória Fora
+2013;2013-05-28 22:00:00;quarterfinals;Ind. Santa Fe;Real Atlético;2;0;2-0;Vitória Casa
+2013;2013-05-22 22:00:00;quarterfinals;Fluminense;Olimpia-PAR;0;0;0-0;Empate
+2013;2013-05-29 22:00:00;quarterfinals;Olimpia-PAR;Fluminense;2;1;2-1;Vitória Casa
+2013;2013-05-02 20:15:00;oitavas de final;São Paulo;Atlético-MG;1;2;1-2;Vitória Fora
+2013;2013-05-08 22:00:00;oitavas de final;Atlético-MG;São Paulo;4;1;4-1;Vitória Casa
+2013;2013-04-30 22:30:00;oitavas de final;Tijuana;Palmeiras;0;0;0-0;Empate
+2013;2013-05-14 22:00:00;oitavas de final;Palmeiras;Tijuana;1;2;1-2;Vitória Fora
+2013;2013-05-01 21:50:00;oitavas de final;Boca Juniors;Corinthians;1;0;1-0;Vitória Casa
+2013;2013-05-15 22:00:00;oitavas de final;Corinthians;Boca Juniors;1;1;1-1;Empate
+2013;2013-04-24 21:15:00;oitavas de final;Newells Old Boys;Vélez Sarsfield;0;1;0-1;Vitória Fora
+2013;2013-05-15 19:15:00;oitavas de final;Vélez Sarsfield;Newells Old Boys;1;2;1-2;Vitória Fora
+2013;2013-05-01 19:30:00;oitavas de final;Grêmio;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2013;2013-05-16 22:30:00;oitavas de final;Ind. Santa Fe;Grêmio;1;0;1-0;Vitória Casa
+2013;2013-04-25 22:15:00;oitavas de final;Real Atlético;Nacional (URU);1;0;1-0;Vitória Casa
+2013;2013-05-09 21:15:00;oitavas de final;Nacional (URU);Real Atlético;1;0;1-0;Vitória Casa
+2013;2013-04-30 20:15:00;oitavas de final;Tigre;Olimpia-PAR;2;1;2-1;Vitória Casa
+2013;2013-05-16 20:00:00;oitavas de final;Olimpia-PAR;Tigre;2;0;2-0;Vitória Casa
+2013;2013-05-02 22:30:00;oitavas de final;Emelec;Fluminense;2;1;2-1;Vitória Casa
+2013;2013-05-08 22:00:00;oitavas de final;Fluminense;Emelec;2;0;2-0;Vitória Casa
+2014;2014-02-12 00:30:00;fase de grupos;Universitario (PER);Vélez Sarsfield;0;1;0-1;Vitória Fora
+2014;2014-02-13 20:00:00;fase de grupos;Atlético-PR;The Strongest;1;0;1-0;Vitória Casa
+2014;2014-02-20 21:15:00;fase de grupos;The Strongest;Universitario (PER);1;0;1-0;Vitória Casa
+2014;2014-02-25 19:45:00;fase de grupos;Vélez Sarsfield;Atlético-PR;2;0;2-0;Vitória Casa
+2014;2014-03-11 21:15:00;fase de grupos;The Strongest;Vélez Sarsfield;2;0;2-0;Vitória Casa
+2014;2014-03-13 23:30:00;fase de grupos;Universitario (PER);Atlético-PR;0;1;0-1;Vitória Fora
+2014;2014-03-18 22:00:00;fase de grupos;Vélez Sarsfield;The Strongest;2;0;2-0;Vitória Casa
+2014;2014-03-20 17:30:00;fase de grupos;Atlético-PR;Universitario (PER);3;0;3-0;Vitória Casa
+2014;2014-03-26 22:00:00;fase de grupos;Atlético-PR;Vélez Sarsfield;1;3;1-3;Vitória Fora
+2014;2014-03-27 23:00:00;fase de grupos;Universitario (PER);The Strongest;3;3;3-3;Empate
+2014;2014-04-08 19:45:00;fase de grupos;Vélez Sarsfield;Universitario (PER);1;0;1-0;Vitória Casa
+2014;2014-04-08 19:45:00;fase de grupos;The Strongest;Atlético-PR;2;1;2-1;Vitória Casa
+2014;2014-02-11 20:00:00;fase de grupos;Botafogo;San Lorenzo;2;0;2-0;Vitória Casa
+2014;2014-02-18 22:30:00;fase de grupos;Independiente Del Valle;Unión Española;2;2;2-2;Empate
+2014;2014-02-26 19:45:00;fase de grupos;Unión Española;Botafogo;1;1;1-1;Empate
+2014;2014-02-27 19:30:00;fase de grupos;San Lorenzo;Independiente Del Valle;1;0;1-0;Vitória Casa
+2014;2014-03-12 19:45:00;fase de grupos;Independiente Del Valle;Botafogo;2;1;2-1;Vitória Casa
+2014;2014-03-12 19:45:00;fase de grupos;San Lorenzo;Unión Española;1;1;1-1;Empate
+2014;2014-03-18 22:00:00;fase de grupos;Botafogo;Independiente Del Valle;1;0;1-0;Vitória Casa
+2014;2014-03-20 22:00:00;fase de grupos;Unión Española;San Lorenzo;1;0;1-0;Vitória Casa
+2014;2014-03-27 20:45:00;fase de grupos;Independiente Del Valle;San Lorenzo;1;1;1-1;Empate
+2014;2014-04-02 19:45:00;fase de grupos;Botafogo;Unión Española;0;1;0-1;Vitória Fora
+2014;2014-04-09 22:00:00;fase de grupos;Unión Española;Independiente Del Valle;4;5;4-5;Vitória Fora
+2014;2014-04-09 22:00:00;fase de grupos;San Lorenzo;Botafogo;3;0;3-0;Vitória Casa
+2014;2014-02-13 00:15:00;fase de grupos;Deportivo Cali;Cerro Porteño;1;0;1-0;Vitória Casa
+2014;2014-02-13 22:15:00;fase de grupos;Lanús;O'Higgins;0;0;0-0;Empate
+2014;2014-02-19 21:45:00;fase de grupos;O'Higgins;Deportivo Cali;1;0;1-0;Vitória Casa
+2014;2014-02-26 19:45:00;fase de grupos;Cerro Porteño;Lanús;3;1;3-1;Vitória Casa
+2014;2014-03-13 21:15:00;fase de grupos;O'Higgins;Cerro Porteño;2;2;2-2;Empate
+2014;2014-03-13 23:30:00;fase de grupos;Deportivo Cali;Lanús;2;1;2-1;Vitória Casa
+2014;2014-03-20 19:45:00;fase de grupos;Lanús;Deportivo Cali;2;0;2-0;Vitória Casa
+2014;2014-03-20 19:45:00;fase de grupos;Cerro Porteño;O'Higgins;2;1;2-1;Vitória Casa
+2014;2014-03-26 22:00:00;fase de grupos;Deportivo Cali;O'Higgins;1;1;1-1;Empate
+2014;2014-03-27 18:30:00;fase de grupos;Lanús;Cerro Porteño;2;0;2-0;Vitória Casa
+2014;2014-04-08 22:00:00;fase de grupos;Cerro Porteño;Deportivo Cali;3;2;3-2;Vitória Casa
+2014;2014-04-08 22:00:00;fase de grupos;O'Higgins;Lanús;0;0;0-0;Empate
+2014;2014-02-11 22:15:00;fase de grupos;Zamora;Atlético-MG;0;1;0-1;Vitória Fora
+2014;2014-02-12 00:30:00;fase de grupos;Ind. Santa Fe;Nacional (PAR);3;1;3-1;Vitória Casa
+2014;2014-02-20 20:00:00;fase de grupos;Nacional (PAR);Zamora;1;0;1-0;Vitória Casa
+2014;2014-02-26 22:00:00;fase de grupos;Atlético-MG;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2014;2014-03-12 22:00:00;fase de grupos;Nacional (PAR);Atlético-MG;2;2;2-2;Empate
+2014;2014-03-12 22:00:00;fase de grupos;Zamora;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2014;2014-03-18 22:00:00;fase de grupos;Ind. Santa Fe;Zamora;2;2;2-2;Empate
+2014;2014-03-19 19:45:00;fase de grupos;Atlético-MG;Nacional (PAR);1;1;1-1;Empate
+2014;2014-03-25 20:45:00;fase de grupos;Zamora;Nacional (PAR);2;0;2-0;Vitória Casa
+2014;2014-04-03 23:00:00;fase de grupos;Ind. Santa Fe;Atlético-MG;1;1;1-1;Empate
+2014;2014-04-10 17:30:00;fase de grupos;Atlético-MG;Zamora;1;0;1-0;Vitória Casa
+2014;2014-04-10 17:30:00;fase de grupos;Nacional (PAR);Ind. Santa Fe;3;2;3-2;Vitória Casa
+2014;2014-02-12 22:00:00;fase de grupos;Real Garcilaso;Cruzeiro;2;1;2-1;Vitória Casa
+2014;2014-02-13 20:00:00;fase de grupos;Universidad de Chile;Defensor Sporting;1;0;1-0;Vitória Casa
+2014;2014-02-19 19:30:00;fase de grupos;Defensor Sporting;Real Garcilaso;4;1;4-1;Vitória Casa
+2014;2014-02-25 17:30:00;fase de grupos;Cruzeiro;Universidad de Chile;5;1;5-1;Vitória Casa
+2014;2014-03-11 19:00:00;fase de grupos;Defensor Sporting;Cruzeiro;2;0;2-0;Vitória Casa
+2014;2014-03-11 23:30:00;fase de grupos;Real Garcilaso;Universidad de Chile;1;2;1-2;Vitória Fora
+2014;2014-03-18 19:45:00;fase de grupos;Universidad de Chile;Real Garcilaso;1;0;1-0;Vitória Casa
+2014;2014-03-20 22:00:00;fase de grupos;Cruzeiro;Defensor Sporting;2;2;2-2;Empate
+2014;2014-04-01 21:00:00;fase de grupos;Real Garcilaso;Defensor Sporting;0;2;0-2;Vitória Fora
+2014;2014-04-03 20:45:00;fase de grupos;Universidad de Chile;Cruzeiro;0;2;0-2;Vitória Fora
+2014;2014-04-09 22:00:00;fase de grupos;Cruzeiro;Real Garcilaso;3;0;3-0;Vitória Casa
+2014;2014-04-09 22:00:00;fase de grupos;Defensor Sporting;Universidad de Chile;1;1;1-1;Empate
+2014;2014-02-13 22:15:00;fase de grupos;Nacional (URU);Grêmio;0;1;0-1;Vitória Fora
+2014;2014-02-14 00:30:00;fase de grupos;Atlético Nacional;Newells Old Boys;1;0;1-0;Vitória Casa
+2014;2014-02-25 22:00:00;fase de grupos;Grêmio;Atlético Nacional;3;0;3-0;Vitória Casa
+2014;2014-02-27 21:45:00;fase de grupos;Newells Old Boys;Nacional (URU);4;0;4-0;Vitória Casa
+2014;2014-03-11 21:15:00;fase de grupos;Atlético Nacional;Nacional (URU);2;2;2-2;Empate
+2014;2014-03-13 21:15:00;fase de grupos;Grêmio;Newells Old Boys;0;0;0-0;Empate
+2014;2014-03-18 19:45:00;fase de grupos;Nacional (URU);Atlético Nacional;0;1;0-1;Vitória Fora
+2014;2014-03-19 22:00:00;fase de grupos;Newells Old Boys;Grêmio;1;1;1-1;Empate
+2014;2014-03-26 19:45:00;fase de grupos;Nacional (URU);Newells Old Boys;2;4;2-4;Vitória Fora
+2014;2014-04-02 22:00:00;fase de grupos;Atlético Nacional;Grêmio;0;2;0-2;Vitória Fora
+2014;2014-04-10 22:00:00;fase de grupos;Newells Old Boys;Atlético Nacional;1;3;1-3;Vitória Fora
+2014;2014-04-10 22:00:00;fase de grupos;Grêmio;Nacional (URU);1;0;1-0;Vitória Casa
+2014;2014-02-12 22:00:00;fase de grupos;León;Flamengo;2;1;2-1;Vitória Casa
+2014;2014-02-14 00:30:00;fase de grupos;Emelec;Bolívar;2;1;2-1;Vitória Casa
+2014;2014-02-19 21:45:00;fase de grupos;Bolívar;León;1;1;1-1;Empate
+2014;2014-02-26 22:00:00;fase de grupos;Flamengo;Emelec;3;1;3-1;Vitória Casa
+2014;2014-03-11 23:30:00;fase de grupos;Emelec;León;2;1;2-1;Vitória Casa
+2014;2014-03-12 22:00:00;fase de grupos;Flamengo;Bolívar;2;2;2-2;Empate
+2014;2014-03-19 22:00:00;fase de grupos;Bolívar;Flamengo;1;0;1-0;Vitória Casa
+2014;2014-03-19 22:00:00;fase de grupos;León;Emelec;3;0;3-0;Vitória Casa
+2014;2014-03-27 00:15:00;fase de grupos;León;Bolívar;0;1;0-1;Vitória Fora
+2014;2014-04-02 22:00:00;fase de grupos;Emelec;Flamengo;1;2;1-2;Vitória Fora
+2014;2014-04-09 19:45:00;fase de grupos;Flamengo;León;2;3;2-3;Vitória Fora
+2014;2014-04-09 19:45:00;fase de grupos;Bolívar;Emelec;2;1;2-1;Vitória Casa
+2014;2014-02-11 22:15:00;fase de grupos;Santos Laguna;Arsenal Sarandí;1;0;1-0;Vitória Casa
+2014;2014-02-12 19:45:00;fase de grupos;Deportivo Anzoátegui;Peñarol;1;1;1-1;Empate
+2014;2014-02-18 20:15:00;fase de grupos;Peñarol;Santos Laguna;0;2;0-2;Vitória Fora
+2014;2014-02-25 22:00:00;fase de grupos;Arsenal Sarandí;Deportivo Anzoátegui;3;0;3-0;Vitória Casa
+2014;2014-03-11 21:15:00;fase de grupos;Deportivo Anzoátegui;Santos Laguna;1;1;1-1;Empate
+2014;2014-03-13 19:00:00;fase de grupos;Arsenal Sarandí;Peñarol;1;0;1-0;Vitória Casa
+2014;2014-03-19 00:15:00;fase de grupos;Santos Laguna;Deportivo Anzoátegui;3;0;3-0;Vitória Casa
+2014;2014-03-19 19:45:00;fase de grupos;Peñarol;Arsenal Sarandí;2;1;2-1;Vitória Casa
+2014;2014-03-25 23:00:00;fase de grupos;Santos Laguna;Peñarol;4;1;4-1;Vitória Casa
+2014;2014-03-26 19:45:00;fase de grupos;Deportivo Anzoátegui;Arsenal Sarandí;1;3;1-3;Vitória Fora
+2014;2014-04-10 19:45:00;fase de grupos;Peñarol;Deportivo Anzoátegui;1;1;1-1;Empate
+2014;2014-04-10 19:45:00;fase de grupos;Arsenal Sarandí;Santos Laguna;3;0;3-0;Vitória Casa
+2014;2014-08-06 21:15:00;final;Nacional (PAR);San Lorenzo;1;1;1-1;Empate
+2014;2014-08-13 21:15:00;final;San Lorenzo;Nacional (PAR);1;0;1-0;Vitória Casa
+2014;2014-07-22 21:15:00;semifinal;Nacional (PAR);Defensor Sporting;2;0;2-0;Vitória Casa
+2014;2014-07-29 21:15:00;semifinal;Defensor Sporting;Nacional (PAR);1;0;1-0;Vitória Casa
+2014;2014-07-23 19:45:00;semifinal;San Lorenzo;Bolívar;5;0;5-0;Vitória Casa
+2014;2014-07-30 21:15:00;semifinal;Bolívar;San Lorenzo;1;0;1-0;Vitória Casa
+2014;2014-05-07 19:45:00;quarterfinals;Nacional (PAR);Arsenal Sarandí;1;0;1-0;Vitória Casa
+2014;2014-05-14 19:30:00;quarterfinals;Arsenal Sarandí;Nacional (PAR);0;0;0-0;Empate
+2014;2014-05-08 22:00:00;quarterfinals;Atlético Nacional;Defensor Sporting;0;2;0-2;Vitória Fora
+2014;2014-05-15 22:00:00;quarterfinals;Defensor Sporting;Atlético Nacional;1;0;1-0;Vitória Casa
+2014;2014-05-07 22:00:00;quarterfinals;San Lorenzo;Cruzeiro;1;0;1-0;Vitória Casa
+2014;2014-05-14 22:00:00;quarterfinals;Cruzeiro;San Lorenzo;1;1;1-1;Empate
+2014;2014-05-08 19:45:00;quarterfinals;Lanús;Bolívar;1;1;1-1;Empate
+2014;2014-05-15 19:30:00;quarterfinals;Bolívar;Lanús;1;0;1-0;Vitória Casa
+2014;2014-04-23 19:45:00;oitavas de final;Nacional (PAR);Vélez Sarsfield;1;0;1-0;Vitória Casa
+2014;2014-04-29 21:45:00;oitavas de final;Vélez Sarsfield;Nacional (PAR);2;2;2-2;Empate
+2014;2014-04-24 21:15:00;oitavas de final;Arsenal Sarandí;Unión Española;0;0;0-0;Empate
+2014;2014-04-30 19:30:00;oitavas de final;Unión Española;Arsenal Sarandí;0;1;0-1;Vitória Fora
+2014;2014-04-23 22:00:00;oitavas de final;Atlético Nacional;Atlético-MG;1;0;1-0;Vitória Casa
+2014;2014-05-01 19:15:00;oitavas de final;Atlético-MG;Atlético Nacional;1;1;1-1;Empate
+2014;2014-04-17 21:15:00;oitavas de final;The Strongest;Defensor Sporting;2;0;2-0;Vitória Casa
+2014;2014-04-29 19:15:00;oitavas de final;Defensor Sporting;The Strongest;2;0;2-0;Vitória Casa
+2014;2014-04-23 22:00:00;oitavas de final;San Lorenzo;Grêmio;1;0;1-0;Vitória Casa
+2014;2014-04-30 22:00:00;oitavas de final;Grêmio;San Lorenzo;1;0;1-0;Vitória Casa
+2014;2014-04-16 22:00:00;oitavas de final;Cruzeiro;Cerro Porteño;1;1;1-1;Empate
+2014;2014-04-30 22:00:00;oitavas de final;Cerro Porteño;Cruzeiro;0;2;0-2;Vitória Fora
+2014;2014-04-16 19:45:00;oitavas de final;Lanús;Santos Laguna;2;1;2-1;Vitória Casa
+2014;2014-04-24 00:10:00;oitavas de final;Santos Laguna;Lanús;0;2;0-2;Vitória Fora
+2014;2014-04-16 22:00:00;oitavas de final;León;Bolívar;2;2;2-2;Empate
+2014;2014-04-22 21:15:00;oitavas de final;Bolívar;León;1;1;1-1;Empate
+2015;2015-02-18 00:45:00;fase de grupos;Atlas;Ind. Santa Fe;0;1;0-1;Vitória Fora
+2015;2015-02-18 22:00:00;fase de grupos;Colo-Colo;Atlético-MG;2;0;2-0;Vitória Casa
+2015;2015-02-25 19:45:00;fase de grupos;Atlético-MG;Atlas;0;1;0-1;Vitória Fora
+2015;2015-02-26 22:30:00;fase de grupos;Ind. Santa Fe;Colo-Colo;3;1;3-1;Vitória Casa
+2015;2015-03-04 19:45:00;fase de grupos;Colo-Colo;Atlas;2;0;2-0;Vitória Casa
+2015;2015-03-18 22:00:00;fase de grupos;Ind. Santa Fe;Atlético-MG;0;1;0-1;Vitória Fora
+2015;2015-04-07 23:15:00;fase de grupos;Atlas;Colo-Colo;1;3;1-3;Vitória Fora
+2015;2015-04-09 21:45:00;fase de grupos;Atlético-MG;Ind. Santa Fe;2;0;2-0;Vitória Casa
+2015;2015-04-15 22:00:00;fase de grupos;Atlas;Atlético-MG;1;0;1-0;Vitória Casa
+2015;2015-04-15 22:00:00;fase de grupos;Colo-Colo;Ind. Santa Fe;0;3;0-3;Vitória Fora
+2015;2015-04-22 19:45:00;fase de grupos;Atlético-MG;Colo-Colo;2;0;2-0;Vitória Casa
+2015;2015-04-22 19:45:00;fase de grupos;Ind. Santa Fe;Atlas;3;1;3-1;Vitória Casa
+2015;2015-02-18 22:00:00;fase de grupos;Corinthians;São Paulo;2;0;2-0;Vitória Casa
+2015;2015-02-19 20:45:00;fase de grupos;Danubio;San Lorenzo;1;2;1-2;Vitória Fora
+2015;2015-02-25 22:00:00;fase de grupos;São Paulo;Danubio;4;0;4-0;Vitória Casa
+2015;2015-03-04 22:00:00;fase de grupos;San Lorenzo;Corinthians;0;1;0-1;Vitória Fora
+2015;2015-03-17 20:00:00;fase de grupos;Danubio;Corinthians;1;2;1-2;Vitória Fora
+2015;2015-03-18 22:00:00;fase de grupos;São Paulo;San Lorenzo;1;0;1-0;Vitória Casa
+2015;2015-04-01 19:55:00;fase de grupos;San Lorenzo;São Paulo;1;0;1-0;Vitória Casa
+2015;2015-04-01 22:00:00;fase de grupos;Corinthians;Danubio;4;0;4-0;Vitória Casa
+2015;2015-04-15 22:00:00;fase de grupos;Danubio;São Paulo;1;2;1-2;Vitória Fora
+2015;2015-04-16 22:00:00;fase de grupos;Corinthians;San Lorenzo;0;0;0-0;Empate
+2015;2015-04-22 22:00:00;fase de grupos;San Lorenzo;Danubio;0;1;0-1;Vitória Fora
+2015;2015-04-22 22:00:00;fase de grupos;São Paulo;Corinthians;2;0;2-0;Vitória Casa
+2015;2015-02-24 19:00:00;fase de grupos;Huracán;Mineros de Guaiana;2;2;2-2;Empate
+2015;2015-02-25 22:00:00;fase de grupos;Universitario de Sucre;Cruzeiro;0;0;0-0;Empate
+2015;2015-03-03 19:45:00;fase de grupos;Mineros de Guaiana;Universitario de Sucre;0;1;0-1;Vitória Fora
+2015;2015-03-03 22:00:00;fase de grupos;Cruzeiro;Huracán;0;0;0-0;Empate
+2015;2015-03-10 19:30:00;fase de grupos;Universitario de Sucre;Huracán;0;0;0-0;Empate
+2015;2015-03-19 22:15:00;fase de grupos;Mineros de Guaiana;Cruzeiro;0;2;0-2;Vitória Fora
+2015;2015-04-08 19:45:00;fase de grupos;Huracán;Universitario de Sucre;1;1;1-1;Empate
+2015;2015-04-08 22:00:00;fase de grupos;Cruzeiro;Mineros de Guaiana;3;0;3-0;Vitória Casa
+2015;2015-04-14 19:00:00;fase de grupos;Huracán;Cruzeiro;3;1;3-1;Vitória Casa
+2015;2015-04-14 19:00:00;fase de grupos;Universitario de Sucre;Mineros de Guaiana;2;0;2-0;Vitória Casa
+2015;2015-04-21 20:30:00;fase de grupos;Cruzeiro;Universitario de Sucre;2;0;2-0;Vitória Casa
+2015;2015-04-21 20:30:00;fase de grupos;Mineros de Guaiana;Huracán;3;0;3-0;Vitória Casa
+2015;2015-02-17 20:15:00;fase de grupos;Universidad de Chile;Emelec;0;1;0-1;Vitória Fora
+2015;2015-02-17 22:30:00;fase de grupos;The Strongest;Internacional;3;1;3-1;Vitória Casa
+2015;2015-02-25 00:30:00;fase de grupos;Emelec;The Strongest;3;0;3-0;Vitória Casa
+2015;2015-02-26 20:15:00;fase de grupos;Internacional;Universidad de Chile;3;1;3-1;Vitória Casa
+2015;2015-03-04 22:00:00;fase de grupos;Internacional;Emelec;3;2;3-2;Vitória Casa
+2015;2015-03-05 20:15:00;fase de grupos;Universidad de Chile;The Strongest;3;1;3-1;Vitória Casa
+2015;2015-03-17 22:15:00;fase de grupos;The Strongest;Universidad de Chile;5;3;5-3;Vitória Casa
+2015;2015-03-18 19:45:00;fase de grupos;Emelec;Internacional;1;1;1-1;Empate
+2015;2015-04-15 17:30:00;fase de grupos;The Strongest;Emelec;1;0;1-0;Vitória Casa
+2015;2015-04-16 22:00:00;fase de grupos;Universidad de Chile;Internacional;0;4;0-4;Vitória Fora
+2015;2015-04-22 17:30:00;fase de grupos;Emelec;Universidad de Chile;2;0;2-0;Vitória Casa
+2015;2015-04-22 17:30:00;fase de grupos;Internacional;The Strongest;1;0;1-0;Vitória Casa
+2015;2015-02-17 20:15:00;fase de grupos;Montevideo Wanderers;Zamora;3;2;3-2;Vitória Casa
+2015;2015-02-18 20:45:00;fase de grupos;Palestino;Boca Juniors;0;2;0-2;Vitória Fora
+2015;2015-02-26 20:15:00;fase de grupos;Boca Juniors;Montevideo Wanderers;2;1;2-1;Vitória Casa
+2015;2015-02-26 22:00:00;fase de grupos;Zamora;Palestino;0;1;0-1;Vitória Fora
+2015;2015-03-10 19:30:00;fase de grupos;Montevideo Wanderers;Palestino;1;0;1-0;Vitória Casa
+2015;2015-03-11 20:00:00;fase de grupos;Boca Juniors;Zamora;5;0;5-0;Vitória Casa
+2015;2015-03-17 22:15:00;fase de grupos;Zamora;Boca Juniors;1;5;1-5;Vitória Fora
+2015;2015-03-19 20:00:00;fase de grupos;Palestino;Montevideo Wanderers;1;1;1-1;Empate
+2015;2015-04-07 20:00:00;fase de grupos;Palestino;Zamora;4;0;4-0;Vitória Casa
+2015;2015-04-09 21:45:00;fase de grupos;Montevideo Wanderers;Boca Juniors;0;3;0-3;Vitória Fora
+2015;2015-04-16 19:45:00;fase de grupos;Zamora;Montevideo Wanderers;0;3;0-3;Vitória Fora
+2015;2015-04-16 19:45:00;fase de grupos;Boca Juniors;Palestino;2;0;2-0;Vitória Casa
+2015;2015-02-19 00:15:00;fase de grupos;Tigres;Juan Aurich;3;0;3-0;Vitória Casa
+2015;2015-02-19 23:00:00;fase de grupos;San José;River Plate;2;0;2-0;Vitória Casa
+2015;2015-03-05 20:15:00;fase de grupos;River Plate;Tigres;1;1;1-1;Empate
+2015;2015-03-05 22:30:00;fase de grupos;Juan Aurich;San José;2;0;2-0;Vitória Casa
+2015;2015-03-11 22:15:00;fase de grupos;San José;Tigres;0;1;0-1;Vitória Fora
+2015;2015-03-12 22:15:00;fase de grupos;Juan Aurich;River Plate;1;1;1-1;Empate
+2015;2015-03-18 00:30:00;fase de grupos;Tigres;San José;4;0;4-0;Vitória Casa
+2015;2015-03-19 20:00:00;fase de grupos;River Plate;Juan Aurich;1;1;1-1;Empate
+2015;2015-04-07 22:15:00;fase de grupos;San José;Juan Aurich;1;1;1-1;Empate
+2015;2015-04-08 22:00:00;fase de grupos;Tigres;River Plate;2;2;2-2;Empate
+2015;2015-04-15 19:45:00;fase de grupos;River Plate;San José;3;0;3-0;Vitória Casa
+2015;2015-04-15 19:45:00;fase de grupos;Juan Aurich;Tigres;4;5;4-5;Vitória Fora
+2015;2015-02-19 20:45:00;fase de grupos;Libertad;Atlético Nacional;2;2;2-2;Empate
+2015;2015-02-25 19:45:00;fase de grupos;Estudiantes;Barcelona-EQU;3;0;3-0;Vitória Casa
+2015;2015-03-03 19:45:00;fase de grupos;Barcelona-EQU;Libertad;0;1;0-1;Vitória Fora
+2015;2015-03-05 22:30:00;fase de grupos;Atlético Nacional;Estudiantes;1;1;1-1;Empate
+2015;2015-03-11 22:15:00;fase de grupos;Barcelona-EQU;Atlético Nacional;1;2;1-2;Vitória Fora
+2015;2015-03-12 19:45:00;fase de grupos;Libertad;Estudiantes;1;0;1-0;Vitória Casa
+2015;2015-03-18 19:45:00;fase de grupos;Estudiantes;Libertad;1;0;1-0;Vitória Casa
+2015;2015-03-19 22:15:00;fase de grupos;Atlético Nacional;Barcelona-EQU;2;3;2-3;Vitória Fora
+2015;2015-04-09 19:30:00;fase de grupos;Estudiantes;Atlético Nacional;0;1;0-1;Vitória Fora
+2015;2015-04-09 19:30:00;fase de grupos;Libertad;Barcelona-EQU;1;1;1-1;Empate
+2015;2015-04-21 22:45:00;fase de grupos;Atlético Nacional;Libertad;4;0;4-0;Vitória Casa
+2015;2015-04-21 22:45:00;fase de grupos;Barcelona-EQU;Estudiantes;0;2;0-2;Vitória Fora
+2015;2015-02-17 22:30:00;fase de grupos;Deportivo Táchira;Racing Club;0;5;0-5;Vitória Fora
+2015;2015-02-18 19:45:00;fase de grupos;Guaraní (PAR);Sporting Cristal;2;2;2-2;Empate
+2015;2015-02-24 21:15:00;fase de grupos;Racing Club;Guaraní (PAR);4;1;4-1;Vitória Casa
+2015;2015-02-24 23:30:00;fase de grupos;Sporting Cristal;Deportivo Táchira;1;1;1-1;Empate
+2015;2015-03-10 21:45:00;fase de grupos;Racing Club;Sporting Cristal;1;2;1-2;Vitória Fora
+2015;2015-03-10 21:45:00;fase de grupos;Guaraní (PAR);Deportivo Táchira;5;2;5-2;Vitória Casa
+2015;2015-03-17 20:00:00;fase de grupos;Sporting Cristal;Racing Club;0;2;0-2;Vitória Fora
+2015;2015-03-18 22:00:00;fase de grupos;Deportivo Táchira;Guaraní (PAR);1;1;1-1;Empate
+2015;2015-04-07 20:00:00;fase de grupos;Guaraní (PAR);Racing Club;2;0;2-0;Vitória Casa
+2015;2015-04-08 19:45:00;fase de grupos;Deportivo Táchira;Sporting Cristal;0;0;0-0;Empate
+2015;2015-04-14 21:15:00;fase de grupos;Sporting Cristal;Guaraní (PAR);1;1;1-1;Empate
+2015;2015-04-14 21:15:00;fase de grupos;Racing Club;Deportivo Táchira;3;2;3-2;Vitória Casa
+2015;2015-07-29 22:00:00;final;Tigres;River Plate;0;0;0-0;Empate
+2015;2015-08-05 22:00:00;final;River Plate;Tigres;3;0;3-0;Vitória Casa
+2015;2015-07-14 21:00:00;semifinal;River Plate;Guaraní (PAR);2;0;2-0;Vitória Casa
+2015;2015-07-21 21:00:00;semifinal;Guaraní (PAR);River Plate;1;1;1-1;Empate
+2015;2015-07-15 22:00:00;semifinal;Internacional;Tigres;2;1;2-1;Vitória Casa
+2015;2015-07-22 22:00:00;semifinal;Tigres;Internacional;3;1;3-1;Vitória Casa
+2015;2015-05-21 22:00:00;quarterfinals;River Plate;Cruzeiro;0;1;0-1;Vitória Fora
+2015;2015-05-27 22:00:00;quarterfinals;Cruzeiro;River Plate;0;3;0-3;Vitória Fora
+2015;2015-05-21 19:45:00;quarterfinals;Guaraní (PAR);Racing Club;1;0;1-0;Vitória Casa
+2015;2015-05-28 21:00:00;quarterfinals;Racing Club;Guaraní (PAR);0;0;0-0;Empate
+2015;2015-05-19 22:00:00;quarterfinals;Emelec;Tigres;1;0;1-0;Vitória Casa
+2015;2015-05-26 22:00:00;quarterfinals;Tigres;Emelec;2;0;2-0;Vitória Casa
+2015;2015-05-20 22:00:00;quarterfinals;Ind. Santa Fe;Internacional;1;0;1-0;Vitória Casa
+2015;2015-05-27 19:30:00;quarterfinals;Internacional;Ind. Santa Fe;2;0;2-0;Vitória Casa
+2015;2015-05-07 21:00:00;oitavas de final;River Plate;Boca Juniors;1;0;1-0;Vitória Casa
+2015;2015-05-14 21:00:00;oitavas de final;Boca Juniors;River Plate;0;3;0-3;Vitória Fora
+2015;2015-05-06 22:00:00;oitavas de final;São Paulo;Cruzeiro;1;0;1-0;Vitória Casa
+2015;2015-05-13 19:30:00;oitavas de final;Cruzeiro;São Paulo;1;0;1-0;Vitória Casa
+2015;2015-05-06 19:45:00;oitavas de final;Guaraní (PAR);Corinthians;2;0;2-0;Vitória Casa
+2015;2015-05-13 22:00:00;oitavas de final;Corinthians;Guaraní (PAR);0;1;0-1;Vitória Fora
+2015;2015-05-07 18:45:00;oitavas de final;Montevideo Wanderers;Racing Club;1;1;1-1;Empate
+2015;2015-05-14 18:30:00;oitavas de final;Racing Club;Montevideo Wanderers;2;1;2-1;Vitória Casa
+2015;2015-04-28 21:30:00;oitavas de final;Universitario de Sucre;Tigres;1;2;1-2;Vitória Fora
+2015;2015-05-05 23:00:00;oitavas de final;Tigres;Universitario de Sucre;1;1;1-1;Empate
+2015;2015-05-07 23:15:00;oitavas de final;Emelec;Atlético Nacional;2;0;2-0;Vitória Casa
+2015;2015-05-14 23:30:00;oitavas de final;Atlético Nacional;Emelec;1;0;1-0;Vitória Casa
+2015;2015-05-06 22:00:00;oitavas de final;Atlético-MG;Internacional;2;2;2-2;Empate
+2015;2015-05-13 22:00:00;oitavas de final;Internacional;Atlético-MG;3;1;3-1;Vitória Casa
+2015;2015-05-05 20:45:00;oitavas de final;Estudiantes;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2015;2015-05-12 21:30:00;oitavas de final;Ind. Santa Fe;Estudiantes;2;0;2-0;Vitória Casa
+2016;2016-02-17 19:30:00;fase de grupos;São Paulo;The Strongest;0;1;0-1;Vitória Fora
+2016;2016-02-25 21:45:00;fase de grupos;Trujillanos (VEN);River Plate;0;4;0-4;Vitória Fora
+2016;2016-03-02 17:15:00;fase de grupos;The Strongest;Trujillanos (VEN);2;1;2-1;Vitória Casa
+2016;2016-03-10 19:30:00;fase de grupos;River Plate;São Paulo;1;1;1-1;Empate
+2016;2016-03-16 19:30:00;fase de grupos;The Strongest;River Plate;1;1;1-1;Empate
+2016;2016-03-16 19:30:00;fase de grupos;Trujillanos (VEN);São Paulo;1;1;1-1;Empate
+2016;2016-04-05 21:45:00;fase de grupos;São Paulo;Trujillanos (VEN);6;0;6-0;Vitória Casa
+2016;2016-04-06 19:30:00;fase de grupos;River Plate;The Strongest;6;0;6-0;Vitória Casa
+2016;2016-04-12 19:30:00;fase de grupos;Trujillanos (VEN);The Strongest;2;1;2-1;Vitória Casa
+2016;2016-04-13 21:45:00;fase de grupos;São Paulo;River Plate;2;1;2-1;Vitória Casa
+2016;2016-04-21 21:45:00;fase de grupos;River Plate;Trujillanos (VEN);4;3;4-3;Vitória Casa
+2016;2016-04-21 21:45:00;fase de grupos;The Strongest;São Paulo;1;1;1-1;Empate
+2016;2016-02-16 21:45:00;fase de grupos;River Plate-URU;Palmeiras;2;2;2-2;Empate
+2016;2016-02-25 19:30:00;fase de grupos;Rosario Central;Nacional (URU);1;1;1-1;Empate
+2016;2016-03-02 19:30:00;fase de grupos;Nacional (URU);River Plate-URU;0;0;0-0;Empate
+2016;2016-03-03 21:45:00;fase de grupos;Palmeiras;Rosario Central;2;0;2-0;Vitória Casa
+2016;2016-03-09 19:30:00;fase de grupos;Rosario Central;River Plate-URU;4;1;4-1;Vitória Casa
+2016;2016-03-09 21:45:00;fase de grupos;Palmeiras;Nacional (URU);1;2;1-2;Vitória Fora
+2016;2016-03-17 19:30:00;fase de grupos;River Plate-URU;Rosario Central;1;3;1-3;Vitória Fora
+2016;2016-03-17 21:45:00;fase de grupos;Nacional (URU);Palmeiras;1;0;1-0;Vitória Casa
+2016;2016-04-06 21:45:00;fase de grupos;Rosario Central;Palmeiras;3;3;3-3;Empate
+2016;2016-04-07 19:30:00;fase de grupos;River Plate-URU;Nacional (URU);2;2;2-2;Empate
+2016;2016-04-14 21:45:00;fase de grupos;Nacional (URU);Rosario Central;0;2;0-2;Vitória Fora
+2016;2016-04-14 21:45:00;fase de grupos;Palmeiras;River Plate-URU;4;0;4-0;Vitória Casa
+2016;2016-02-24 19:30:00;fase de grupos;Racing Club;Bolívar;4;1;4-1;Vitória Casa
+2016;2016-02-24 21:45:00;fase de grupos;Deportivo Cali;Boca Juniors;0;0;0-0;Empate
+2016;2016-03-03 19:30:00;fase de grupos;Boca Juniors;Racing Club;0;0;0-0;Empate
+2016;2016-03-03 21:45:00;fase de grupos;Bolívar;Deportivo Cali;5;0;5-0;Vitória Casa
+2016;2016-03-10 21:45:00;fase de grupos;Bolívar;Boca Juniors;1;1;1-1;Empate
+2016;2016-03-17 21:45:00;fase de grupos;Deportivo Cali;Racing Club;2;2;2-2;Empate
+2016;2016-04-07 19:30:00;fase de grupos;Boca Juniors;Bolívar;3;1;3-1;Vitória Casa
+2016;2016-04-07 21:45:00;fase de grupos;Racing Club;Deportivo Cali;4;2;4-2;Vitória Casa
+2016;2016-04-13 19:30:00;fase de grupos;Racing Club;Boca Juniors;0;1;0-1;Vitória Fora
+2016;2016-04-14 21:45:00;fase de grupos;Deportivo Cali;Bolívar;1;1;1-1;Empate
+2016;2016-04-20 19:30:00;fase de grupos;Boca Juniors;Deportivo Cali;6;2;6-2;Vitória Casa
+2016;2016-04-20 19:30:00;fase de grupos;Bolívar;Racing Club;1;1;1-1;Empate
+2016;2016-02-18 22:45:00;fase de grupos;Sporting Cristal;Peñarol;1;1;1-1;Empate
+2016;2016-02-23 21:45:00;fase de grupos;Huracán;Atlético Nacional;0;2;0-2;Vitória Fora
+2016;2016-03-01 21:45:00;fase de grupos;Peñarol;Huracán;0;1;0-1;Vitória Fora
+2016;2016-03-01 21:45:00;fase de grupos;Atlético Nacional;Sporting Cristal;3;0;3-0;Vitória Casa
+2016;2016-03-08 21:45:00;fase de grupos;Atlético Nacional;Peñarol;2;0;2-0;Vitória Casa
+2016;2016-03-08 21:45:00;fase de grupos;Sporting Cristal;Huracán;3;2;3-2;Vitória Casa
+2016;2016-03-15 21:45:00;fase de grupos;Peñarol;Atlético Nacional;0;4;0-4;Vitória Fora
+2016;2016-04-05 19:30:00;fase de grupos;Huracán;Sporting Cristal;4;2;4-2;Vitória Casa
+2016;2016-04-12 19:30:00;fase de grupos;Huracán;Peñarol;0;0;0-0;Empate
+2016;2016-04-12 21:45:00;fase de grupos;Sporting Cristal;Atlético Nacional;0;1;0-1;Vitória Fora
+2016;2016-04-19 19:30:00;fase de grupos;Peñarol;Sporting Cristal;4;3;4-3;Vitória Casa
+2016;2016-04-19 19:30:00;fase de grupos;Atlético Nacional;Huracán;0;0;0-0;Empate
+2016;2016-02-17 21:45:00;fase de grupos;Melgar;Atlético-MG;1;2;1-2;Vitória Fora
+2016;2016-02-18 22:45:00;fase de grupos;Independiente del Valle;Colo-Colo;1;1;1-1;Empate
+2016;2016-02-24 19:30:00;fase de grupos;Colo-Colo;Melgar;1;0;1-0;Vitória Casa
+2016;2016-02-24 21:45:00;fase de grupos;Atlético-MG;Independiente del Valle;1;0;1-0;Vitória Casa
+2016;2016-03-01 17:15:00;fase de grupos;Melgar;Independiente del Valle;0;1;0-1;Vitória Fora
+2016;2016-03-10 21:45:00;fase de grupos;Colo-Colo;Atlético-MG;0;0;0-0;Empate
+2016;2016-03-15 19:30:00;fase de grupos;Independiente del Valle;Melgar;2;0;2-0;Vitória Casa
+2016;2016-03-16 21:45:00;fase de grupos;Atlético-MG;Colo-Colo;3;0;3-0;Vitória Casa
+2016;2016-04-06 21:45:00;fase de grupos;Independiente del Valle;Atlético-MG;3;2;3-2;Vitória Casa
+2016;2016-04-07 21:45:00;fase de grupos;Melgar;Colo-Colo;1;2;1-2;Vitória Fora
+2016;2016-04-14 19:30:00;fase de grupos;Atlético-MG;Melgar;4;0;4-0;Vitória Casa
+2016;2016-04-14 19:30:00;fase de grupos;Colo-Colo;Independiente del Valle;0;0;0-0;Empate
+2016;2016-02-18 00:00:00;fase de grupos;Toluca;Grêmio;2;0;2-0;Vitória Casa
+2016;2016-02-23 19:30:00;fase de grupos;LDU;San Lorenzo;2;0;2-0;Vitória Casa
+2016;2016-03-02 19:30:00;fase de grupos;San Lorenzo;Toluca;1;1;1-1;Empate
+2016;2016-03-02 21:45:00;fase de grupos;Grêmio;LDU;4;0;4-0;Vitória Casa
+2016;2016-03-09 21:45:00;fase de grupos;Grêmio;San Lorenzo;1;1;1-1;Empate
+2016;2016-03-10 21:45:00;fase de grupos;LDU;Toluca;1;2;1-2;Vitória Fora
+2016;2016-03-15 21:45:00;fase de grupos;San Lorenzo;Grêmio;1;1;1-1;Empate
+2016;2016-04-05 21:45:00;fase de grupos;Toluca;LDU;2;1;2-1;Vitória Casa
+2016;2016-04-12 21:45:00;fase de grupos;Toluca;San Lorenzo;2;1;2-1;Vitória Casa
+2016;2016-04-13 21:45:00;fase de grupos;LDU;Grêmio;2;3;2-3;Vitória Fora
+2016;2016-04-19 21:45:00;fase de grupos;San Lorenzo;LDU;1;1;1-1;Empate
+2016;2016-04-19 21:45:00;fase de grupos;Grêmio;Toluca;1;0;1-0;Vitória Casa
+2016;2016-02-17 00:00:00;fase de grupos;Deportivo Táchira;Olimpia-PAR;2;1;2-1;Vitória Casa
+2016;2016-02-19 01:00:00;fase de grupos;Pumas;Emelec;4;2;4-2;Vitória Casa
+2016;2016-02-25 21:45:00;fase de grupos;Emelec;Deportivo Táchira;2;0;2-0;Vitória Casa
+2016;2016-03-01 19:30:00;fase de grupos;Olimpia-PAR;Pumas;0;2;0-2;Vitória Fora
+2016;2016-03-08 19:30:00;fase de grupos;Emelec;Olimpia-PAR;2;2;2-2;Empate
+2016;2016-03-09 21:45:00;fase de grupos;Deportivo Táchira;Pumas;2;0;2-0;Vitória Casa
+2016;2016-03-17 19:30:00;fase de grupos;Olimpia-PAR;Emelec;4;2;4-2;Vitória Casa
+2016;2016-03-18 00:00:00;fase de grupos;Pumas;Deportivo Táchira;4;1;4-1;Vitória Casa
+2016;2016-04-05 19:30:00;fase de grupos;Deportivo Táchira;Emelec;1;0;1-0;Vitória Casa
+2016;2016-04-07 00:00:00;fase de grupos;Pumas;Olimpia-PAR;4;1;4-1;Vitória Casa
+2016;2016-04-13 19:30:00;fase de grupos;Olimpia-PAR;Deportivo Táchira;4;0;4-0;Vitória Casa
+2016;2016-04-13 19:30:00;fase de grupos;Emelec;Pumas;2;3;2-3;Vitória Fora
+2016;2016-02-17 00:00:00;fase de grupos;Ind. Santa Fe;Cerro Porteño;0;0;0-0;Empate
+2016;2016-02-17 21:45:00;fase de grupos;Cobresal;Corinthians;0;1;0-1;Vitória Fora
+2016;2016-02-25 19:30:00;fase de grupos;Cerro Porteño;Cobresal;2;1;2-1;Vitória Casa
+2016;2016-03-02 21:45:00;fase de grupos;Corinthians;Ind. Santa Fe;1;0;1-0;Vitória Casa
+2016;2016-03-09 17:15:00;fase de grupos;Cobresal;Ind. Santa Fe;1;2;1-2;Vitória Fora
+2016;2016-03-09 19:30:00;fase de grupos;Cerro Porteño;Corinthians;3;2;3-2;Vitória Casa
+2016;2016-03-15 19:30:00;fase de grupos;Ind. Santa Fe;Cobresal;3;0;3-0;Vitória Casa
+2016;2016-03-16 21:45:00;fase de grupos;Corinthians;Cerro Porteño;2;0;2-0;Vitória Casa
+2016;2016-04-06 21:45:00;fase de grupos;Ind. Santa Fe;Corinthians;1;1;1-1;Empate
+2016;2016-04-13 17:15:00;fase de grupos;Cobresal;Cerro Porteño;2;0;2-0;Vitória Casa
+2016;2016-04-20 21:45:00;fase de grupos;Corinthians;Cobresal;6;0;6-0;Vitória Casa
+2016;2016-04-20 21:45:00;fase de grupos;Cerro Porteño;Ind. Santa Fe;1;0;1-0;Vitória Casa
+2016;2016-07-20 21:45:00;final;Independiente del Valle;Atlético Nacional;1;1;1-1;Empate
+2016;2016-07-27 21:45:00;final;Atlético Nacional;Independiente del Valle;1;0;1-0;Vitória Casa
+2016;2016-07-06 21:45:00;semifinal;São Paulo;Atlético Nacional;0;2;0-2;Vitória Fora
+2016;2016-07-13 21:45:00;semifinal;Atlético Nacional;São Paulo;2;1;2-1;Vitória Casa
+2016;2016-07-07 21:45:00;semifinal;Independiente del Valle;Boca Juniors;2;1;2-1;Vitória Casa
+2016;2016-07-14 21:45:00;semifinal;Boca Juniors;Independiente del Valle;2;3;2-3;Vitória Fora
+2016;2016-05-12 21:45:00;quarterfinals;Rosario Central;Atlético Nacional;1;0;1-0;Vitória Casa
+2016;2016-05-19 22:45:00;quarterfinals;Atlético Nacional;Rosario Central;3;1;3-1;Vitória Casa
+2016;2016-05-11 21:45:00;quarterfinals;São Paulo;Atlético-MG;1;0;1-0;Vitória Casa
+2016;2016-05-18 21:45:00;quarterfinals;Atlético-MG;São Paulo;2;1;2-1;Vitória Casa
+2016;2016-05-17 21:45:00;quarterfinals;Independiente del Valle;Pumas;2;1;2-1;Vitória Casa
+2016;2016-05-24 21:45:00;quarterfinals;Pumas;Independiente del Valle;2;1;2-1;Vitória Casa
+2016;2016-05-12 19:30:00;quarterfinals;Nacional (URU);Boca Juniors;1;1;1-1;Empate
+2016;2016-05-19 20:15:00;quarterfinals;Boca Juniors;Nacional (URU);1;1;1-1;Empate
+2016;2016-04-26 19:30:00;oitavas de final;Huracán;Atlético Nacional;0;0;0-0;Empate
+2016;2016-05-03 21:45:00;oitavas de final;Atlético Nacional;Huracán;4;2;4-2;Vitória Casa
+2016;2016-04-27 21:45:00;oitavas de final;Grêmio;Rosario Central;0;1;0-1;Vitória Fora
+2016;2016-05-05 19:15:00;oitavas de final;Rosario Central;Grêmio;3;0;3-0;Vitória Casa
+2016;2016-04-27 19:30:00;oitavas de final;Racing Club;Atlético-MG;0;0;0-0;Empate
+2016;2016-05-04 21:45:00;oitavas de final;Atlético-MG;Racing Club;2;1;2-1;Vitória Casa
+2016;2016-04-28 21:45:00;oitavas de final;São Paulo;Toluca;4;0;4-0;Vitória Casa
+2016;2016-05-04 19:15:00;oitavas de final;Toluca;São Paulo;3;1;3-1;Vitória Casa
+2016;2016-04-26 21:45:00;oitavas de final;Deportivo Táchira;Pumas;1;0;1-0;Vitória Casa
+2016;2016-05-03 23:45:00;oitavas de final;Pumas;Deportivo Táchira;2;0;2-0;Vitória Casa
+2016;2016-04-28 19:30:00;oitavas de final;Independiente del Valle;River Plate;2;0;2-0;Vitória Casa
+2016;2016-05-04 19:15:00;oitavas de final;River Plate;Independiente del Valle;1;0;1-0;Vitória Casa
+2016;2016-04-27 21:45:00;oitavas de final;Nacional (URU);Corinthians;0;0;0-0;Empate
+2016;2016-05-04 21:45:00;oitavas de final;Corinthians;Nacional (URU);2;2;2-2;Empate
+2016;2016-04-28 21:45:00;oitavas de final;Cerro Porteño;Boca Juniors;1;2;1-2;Vitória Fora
+2016;2016-05-05 21:45:00;oitavas de final;Boca Juniors;Cerro Porteño;3;1;3-1;Vitória Casa
+2017;2017-03-14 21:00:00;fase de grupos;Botafogo;Estudiantes;2;1;2-1;Vitória Casa
+2017;2017-03-14 21:45:00;fase de grupos;Barcelona-EQU;Atlético Nacional;2;1;2-1;Vitória Casa
+2017;2017-04-11 21:00:00;fase de grupos;Estudiantes;Barcelona-EQU;0;2;0-2;Vitória Fora
+2017;2017-04-13 21:45:00;fase de grupos;Atlético Nacional;Botafogo;0;2;0-2;Vitória Fora
+2017;2017-04-19 19:30:00;fase de grupos;Estudiantes;Atlético Nacional;1;0;1-0;Vitória Casa
+2017;2017-04-20 21:45:00;fase de grupos;Barcelona-EQU;Botafogo;1;1;1-1;Empate
+2017;2017-05-02 21:00:00;fase de grupos;Atlético Nacional;Estudiantes;4;1;4-1;Vitória Casa
+2017;2017-05-02 21:45:00;fase de grupos;Botafogo;Barcelona-EQU;0;2;0-2;Vitória Fora
+2017;2017-05-18 19:30:00;fase de grupos;Barcelona-EQU;Estudiantes;0;3;0-3;Vitória Fora
+2017;2017-05-18 21:45:00;fase de grupos;Botafogo;Atlético Nacional;1;0;1-0;Vitória Casa
+2017;2017-05-25 21:45:00;fase de grupos;Atlético Nacional;Barcelona-EQU;3;1;3-1;Vitória Casa
+2017;2017-05-25 21:45:00;fase de grupos;Estudiantes;Botafogo;1;0;1-0;Vitória Casa
+2017;2017-03-09 21:00:00;fase de grupos;The Strongest;Ind. Santa Fe;2;0;2-0;Vitória Casa
+2017;2017-03-09 21:45:00;fase de grupos;Sporting Cristal;Santos;1;1;1-1;Empate
+2017;2017-03-16 21:45:00;fase de grupos;Santos;The Strongest;2;0;2-0;Vitória Casa
+2017;2017-03-16 21:45:00;fase de grupos;Ind. Santa Fe;Sporting Cristal;3;0;3-0;Vitória Casa
+2017;2017-04-18 21:45:00;fase de grupos;Sporting Cristal;The Strongest;0;0;0-0;Empate
+2017;2017-04-19 21:45:00;fase de grupos;Ind. Santa Fe;Santos;0;0;0-0;Empate
+2017;2017-05-04 19:30:00;fase de grupos;The Strongest;Sporting Cristal;5;1;5-1;Vitória Casa
+2017;2017-05-04 21:45:00;fase de grupos;Santos;Ind. Santa Fe;3;2;3-2;Vitória Casa
+2017;2017-05-17 19:30:00;fase de grupos;Sporting Cristal;Ind. Santa Fe;0;2;0-2;Vitória Fora
+2017;2017-05-17 19:30:00;fase de grupos;The Strongest;Santos;1;1;1-1;Empate
+2017;2017-05-23 21:45:00;fase de grupos;Santos;Sporting Cristal;4;0;4-0;Vitória Casa
+2017;2017-05-23 21:45:00;fase de grupos;Ind. Santa Fe;The Strongest;1;1;1-1;Empate
+2017;2017-03-14 19:30:00;fase de grupos;Melgar;Emelec;1;0;1-0;Vitória Casa
+2017;2017-03-15 21:00:00;fase de grupos;Independiente Medellín;River Plate;1;3;1-3;Vitória Fora
+2017;2017-04-13 19:30:00;fase de grupos;Emelec;Independiente Medellín;1;0;1-0;Vitória Casa
+2017;2017-04-13 21:00:00;fase de grupos;River Plate;Melgar;4;2;4-2;Vitória Casa
+2017;2017-04-20 19:00:00;fase de grupos;Independiente Medellín;Melgar;2;0;2-0;Vitória Casa
+2017;2017-04-27 21:00:00;fase de grupos;Emelec;River Plate;1;2;1-2;Vitória Fora
+2017;2017-04-26 21:00:00;fase de grupos;Melgar;Independiente Medellín;1;2;1-2;Vitória Fora
+2017;2017-05-10 21:00:00;fase de grupos;River Plate;Emelec;1;1;1-1;Empate
+2017;2017-05-16 23:15:00;fase de grupos;Independiente Medellín;Emelec;1;2;1-2;Vitória Fora
+2017;2017-05-18 21:00:00;fase de grupos;Melgar;River Plate;2;3;2-3;Vitória Fora
+2017;2017-05-25 19:30:00;fase de grupos;Emelec;Melgar;3;0;3-0;Vitória Casa
+2017;2017-05-25 19:30:00;fase de grupos;River Plate;Independiente Medellín;1;2;1-2;Vitória Fora
+2017;2017-03-07 21:00:00;fase de grupos;Atlético-PR;Universidad Católica;2;2;2-2;Empate
+2017;2017-03-08 21:45:00;fase de grupos;Flamengo;San Lorenzo;4;0;4-0;Vitória Casa
+2017;2017-03-15 19:30:00;fase de grupos;San Lorenzo;Atlético-PR;0;1;0-1;Vitória Fora
+2017;2017-03-15 21:45:00;fase de grupos;Universidad Católica;Flamengo;1;0;1-0;Vitória Casa
+2017;2017-04-12 21:00:00;fase de grupos;Universidad Católica;San Lorenzo;1;1;1-1;Empate
+2017;2017-04-12 21:45:00;fase de grupos;Flamengo;Atlético-PR;2;1;2-1;Vitória Casa
+2017;2017-04-25 21:00:00;fase de grupos;San Lorenzo;Universidad Católica;2;1;2-1;Vitória Casa
+2017;2017-04-26 21:45:00;fase de grupos;Atlético-PR;Flamengo;2;1;2-1;Vitória Casa
+2017;2017-05-03 21:00:00;fase de grupos;Atlético-PR;San Lorenzo;0;3;0-3;Vitória Fora
+2017;2017-05-03 21:45:00;fase de grupos;Flamengo;Universidad Católica;3;1;3-1;Vitória Casa
+2017;2017-05-17 21:45:00;fase de grupos;San Lorenzo;Flamengo;2;1;2-1;Vitória Casa
+2017;2017-05-17 21:45:00;fase de grupos;Universidad Católica;Atlético-PR;2;3;2-3;Vitória Fora
+2017;2017-03-07 19:30:00;fase de grupos;Jorge Wilstermann;Peñarol;6;2;6-2;Vitória Casa
+2017;2017-03-08 21:45:00;fase de grupos;Atlético Tucumán;Palmeiras;1;1;1-1;Empate
+2017;2017-03-15 21:45:00;fase de grupos;Palmeiras;Jorge Wilstermann;1;0;1-0;Vitória Casa
+2017;2017-03-16 21:00:00;fase de grupos;Peñarol;Atlético Tucumán;2;1;2-1;Vitória Casa
+2017;2017-04-11 19:30:00;fase de grupos;Jorge Wilstermann;Atlético Tucumán;2;1;2-1;Vitória Casa
+2017;2017-04-12 21:45:00;fase de grupos;Palmeiras;Peñarol;3;2;3-2;Vitória Casa
+2017;2017-04-25 19:30:00;fase de grupos;Atlético Tucumán;Jorge Wilstermann;2;1;2-1;Vitória Casa
+2017;2017-04-26 21:45:00;fase de grupos;Peñarol;Palmeiras;2;3;2-3;Vitória Fora
+2017;2017-05-02 19:30:00;fase de grupos;Atlético Tucumán;Peñarol;2;1;2-1;Vitória Casa
+2017;2017-05-03 21:45:00;fase de grupos;Jorge Wilstermann;Palmeiras;3;2;3-2;Vitória Casa
+2017;2017-05-24 21:45:00;fase de grupos;Palmeiras;Atlético Tucumán;3;1;3-1;Vitória Casa
+2017;2017-05-24 21:45:00;fase de grupos;Peñarol;Jorge Wilstermann;2;0;2-0;Vitória Casa
+2017;2017-03-08 19:30:00;fase de grupos;Godoy Cruz;Atlético-MG;1;1;1-1;Empate
+2017;2017-03-08 19:30:00;fase de grupos;Sport Boys;Libertad;3;3;3-3;Empate
+2017;2017-04-11 19:30:00;fase de grupos;Libertad;Godoy Cruz;1;2;1-2;Vitória Fora
+2017;2017-04-13 19:30:00;fase de grupos;Atlético-MG;Sport Boys;5;2;5-2;Vitória Casa
+2017;2017-04-19 21:45:00;fase de grupos;Libertad;Atlético-MG;1;0;1-0;Vitória Casa
+2017;2017-04-20 19:30:00;fase de grupos;Godoy Cruz;Sport Boys;2;0;2-0;Vitória Casa
+2017;2017-04-26 19:30:00;fase de grupos;Atlético-MG;Libertad;2;0;2-0;Vitória Casa
+2017;2017-04-27 21:45:00;fase de grupos;Sport Boys;Godoy Cruz;1;3;1-3;Vitória Fora
+2017;2017-05-03 19:30:00;fase de grupos;Sport Boys;Atlético-MG;1;5;1-5;Vitória Fora
+2017;2017-05-04 21:00:00;fase de grupos;Godoy Cruz;Libertad;1;1;1-1;Empate
+2017;2017-05-16 21:00:00;fase de grupos;Atlético-MG;Godoy Cruz;4;1;4-1;Vitória Casa
+2017;2017-05-16 21:00:00;fase de grupos;Libertad;Sport Boys;1;1;1-1;Empate
+2017;2017-03-07 21:45:00;fase de grupos;Zulia;Chapecoense;1;2;1-2;Vitória Fora
+2017;2017-03-09 21:00:00;fase de grupos;Lanús;Nacional (URU);0;1;0-1;Vitória Fora
+2017;2017-03-15 19:30:00;fase de grupos;Nacional (URU);Zulia;0;1;0-1;Vitória Fora
+2017;2017-03-16 19:30:00;fase de grupos;Chapecoense;Lanús;1;3;1-3;Vitória Fora
+2017;2017-04-18 21:00:00;fase de grupos;Lanús;Zulia;5;0;5-0;Vitória Casa
+2017;2017-04-18 21:45:00;fase de grupos;Chapecoense;Nacional (URU);1;1;1-1;Empate
+2017;2017-04-27 19:30:00;fase de grupos;Nacional (URU);Chapecoense;3;0;3-0;Vitória Casa
+2017;2017-04-27 19:30:00;fase de grupos;Zulia;Lanús;1;1;1-1;Empate
+2017;2017-05-16 19:30:00;fase de grupos;Zulia;Nacional (URU);0;0;0-0;Empate
+2017;2017-05-17 21:45:00;fase de grupos;Lanús;Chapecoense;3;0;3-0;Vitória Casa
+2017;2017-05-23 19:30:00;fase de grupos;Nacional (URU);Lanús;0;1;0-1;Vitória Fora
+2017;2017-05-23 19:30:00;fase de grupos;Chapecoense;Zulia;2;1;2-1;Vitória Casa
+2017;2017-03-07 17:15:00;fase de grupos;Deportes Iquique;Guaraní (PAR);0;1;0-1;Vitória Fora
+2017;2017-03-09 19:30:00;fase de grupos;Zamora;Grêmio;0;2;0-2;Vitória Fora
+2017;2017-04-11 21:45:00;fase de grupos;Grêmio;Deportes Iquique;3;2;3-2;Vitória Casa
+2017;2017-04-12 19:30:00;fase de grupos;Guaraní (PAR);Zamora;3;1;3-1;Vitória Casa
+2017;2017-04-19 21:00:00;fase de grupos;Zamora;Deportes Iquique;1;4;1-4;Vitória Fora
+2017;2017-04-20 19:30:00;fase de grupos;Guaraní (PAR);Grêmio;1;1;1-1;Empate
+2017;2017-04-25 17:15:00;fase de grupos;Deportes Iquique;Zamora;4;3;4-3;Vitória Casa
+2017;2017-04-27 21:45:00;fase de grupos;Grêmio;Guaraní (PAR);4;1;4-1;Vitória Casa
+2017;2017-05-03 19:30:00;fase de grupos;Deportes Iquique;Grêmio;2;1;2-1;Vitória Casa
+2017;2017-05-04 21:45:00;fase de grupos;Zamora;Guaraní (PAR);1;3;1-3;Vitória Fora
+2017;2017-05-25 21:45:00;fase de grupos;Grêmio;Zamora;4;0;4-0;Vitória Casa
+2017;2017-05-25 21:45:00;fase de grupos;Guaraní (PAR);Deportes Iquique;0;0;0-0;Empate
+2017;2017-11-22 21:45:00;final;Grêmio;Lanús;1;0;1-0;Vitória Casa
+2017;2017-11-29 21:45:00;final;Lanús;Grêmio;1;2;1-2;Vitória Fora
+2017;2017-10-24 20:15:00;semifinal;River Plate;Lanús;1;0;1-0;Vitória Casa
+2017;2017-10-31 22:15:00;semifinal;Lanús;River Plate;4;2;4-2;Vitória Casa
+2017;2017-10-25 21:45:00;semifinal;Barcelona-EQU;Grêmio;0;3;0-3;Vitória Fora
+2017;2017-11-01 21:45:00;semifinal;Grêmio;Barcelona-EQU;0;1;0-1;Vitória Fora
+2017;2017-09-14 21:45:00;quarterfinals;Jorge Wilstermann;River Plate;3;0;3-0;Vitória Casa
+2017;2017-09-21 19:15:00;quarterfinals;River Plate;Jorge Wilstermann;8;0;8-0;Vitória Casa
+2017;2017-09-13 19:15:00;quarterfinals;San Lorenzo;Lanús;2;0;2-0;Vitória Casa
+2017;2017-09-21 21:45:00;quarterfinals;Lanús;San Lorenzo;2;0;2-0;Vitória Casa
+2017;2017-09-13 21:45:00;quarterfinals;Barcelona-EQU;Santos;1;1;1-1;Empate
+2017;2017-09-20 21:45:00;quarterfinals;Santos;Barcelona-EQU;0;1;0-1;Vitória Fora
+2017;2017-09-13 21:45:00;quarterfinals;Botafogo;Grêmio;0;0;0-0;Empate
+2017;2017-09-20 21:45:00;quarterfinals;Grêmio;Botafogo;1;0;1-0;Vitória Casa
+2017;2017-07-04 21:45:00;oitavas de final;Guaraní (PAR);River Plate;0;2;0-2;Vitória Fora
+2017;2017-08-08 21:45:00;oitavas de final;River Plate;Guaraní (PAR);1;1;1-1;Empate
+2017;2017-07-05 21:45:00;oitavas de final;Jorge Wilstermann;Atlético-MG;1;0;1-0;Vitória Casa
+2017;2017-08-09 21:45:00;oitavas de final;Atlético-MG;Jorge Wilstermann;0;0;0-0;Empate
+2017;2017-07-06 21:45:00;oitavas de final;Emelec;San Lorenzo;0;1;0-1;Vitória Fora
+2017;2017-08-10 21:45:00;oitavas de final;San Lorenzo;Emelec;0;1;0-1;Vitória Fora
+2017;2017-07-06 19:15:00;oitavas de final;The Strongest;Lanús;1;1;1-1;Empate
+2017;2017-08-08 19:15:00;oitavas de final;Lanús;The Strongest;1;0;1-0;Vitória Casa
+2017;2017-07-05 19:15:00;oitavas de final;Atlético-PR;Santos;2;3;2-3;Vitória Fora
+2017;2017-08-10 21:45:00;oitavas de final;Santos;Atlético-PR;1;0;1-0;Vitória Casa
+2017;2017-07-05 21:45:00;oitavas de final;Barcelona-EQU;Palmeiras;1;0;1-0;Vitória Casa
+2017;2017-08-09 21:45:00;oitavas de final;Palmeiras;Barcelona-EQU;1;0;1-0;Vitória Casa
+2017;2017-07-06 21:45:00;oitavas de final;Nacional (URU);Botafogo;0;1;0-1;Vitória Fora
+2017;2017-08-10 19:15:00;oitavas de final;Botafogo;Nacional (URU);2;0;2-0;Vitória Casa
+2017;2017-07-04 19:15:00;oitavas de final;Godoy Cruz;Grêmio;0;1;0-1;Vitória Fora
+2017;2017-08-09 19:15:00;oitavas de final;Grêmio;Godoy Cruz;2;1;2-1;Vitória Casa
+2018;2018-02-27 19:15:00;fase de grupos;Monagas;Cerro Porteño;0;2;0-2;Vitória Fora
+2018;2018-02-27 19:15:00;fase de grupos;Defensor Sporting;Grêmio;1;1;1-1;Empate
+2018;2018-03-13 21:30:00;fase de grupos;Cerro Porteño;Defensor Sporting;2;1;2-1;Vitória Casa
+2018;2018-04-04 19:15:00;fase de grupos;Grêmio;Monagas;4;0;4-0;Vitória Casa
+2018;2018-04-17 19:15:00;fase de grupos;Defensor Sporting;Monagas;3;1;3-1;Vitória Casa
+2018;2018-04-17 21:30:00;fase de grupos;Cerro Porteño;Grêmio;0;0;0-0;Empate
+2018;2018-04-25 21:45:00;fase de grupos;Monagas;Defensor Sporting;1;0;1-0;Vitória Casa
+2018;2018-05-01 19:15:00;fase de grupos;Grêmio;Cerro Porteño;5;0;5-0;Vitória Casa
+2018;2018-05-15 19:15:00;fase de grupos;Defensor Sporting;Cerro Porteño;0;1;0-1;Vitória Fora
+2018;2018-05-15 21:30:00;fase de grupos;Monagas;Grêmio;1;2;1-2;Vitória Fora
+2018;2018-05-23 19:15:00;fase de grupos;Cerro Porteño;Monagas;3;2;3-2;Vitória Casa
+2018;2018-05-23 19:15:00;fase de grupos;Grêmio;Defensor Sporting;1;0;1-0;Vitória Casa
+2018;2018-02-27 21:30:00;fase de grupos;Colo-Colo;Atlético Nacional;0;1;0-1;Vitória Fora
+2018;2018-02-28 21:45:00;fase de grupos;Delfín-EQU;Bolívar;1;1;1-1;Empate
+2018;2018-03-14 19:15:00;fase de grupos;Bolívar;Colo-Colo;1;1;1-1;Empate
+2018;2018-03-14 21:45:00;fase de grupos;Atlético Nacional;Delfín-EQU;4;0;4-0;Vitória Casa
+2018;2018-04-05 19:15:00;fase de grupos;Colo-Colo;Delfín-EQU;0;2;0-2;Vitória Fora
+2018;2018-04-05 21:30:00;fase de grupos;Bolívar;Atlético Nacional;1;0;1-0;Vitória Casa
+2018;2018-04-24 21:30:00;fase de grupos;Atlético Nacional;Bolívar;4;1;4-1;Vitória Casa
+2018;2018-05-02 21:45:00;fase de grupos;Delfín-EQU;Colo-Colo;1;2;1-2;Vitória Fora
+2018;2018-05-15 19:15:00;fase de grupos;Delfín-EQU;Atlético Nacional;1;0;1-0;Vitória Casa
+2018;2018-05-15 21:30:00;fase de grupos;Colo-Colo;Bolívar;2;0;2-0;Vitória Casa
+2018;2018-05-24 21:30:00;fase de grupos;Atlético Nacional;Colo-Colo;0;0;0-0;Empate
+2018;2018-05-24 21:30:00;fase de grupos;Bolívar;Delfín-EQU;2;1;2-1;Vitória Casa
+2018;2018-03-13 19:15:00;fase de grupos;Atlético Tucumán;Libertad;0;2;0-2;Vitória Fora
+2018;2018-03-15 19:15:00;fase de grupos;The Strongest;Peñarol;1;0;1-0;Vitória Casa
+2018;2018-04-03 19:15:00;fase de grupos;Libertad;The Strongest;3;0;3-0;Vitória Casa
+2018;2018-04-04 19:15:00;fase de grupos;Peñarol;Atlético Tucumán;3;1;3-1;Vitória Casa
+2018;2018-04-18 19:15:00;fase de grupos;The Strongest;Atlético Tucumán;1;2;1-2;Vitória Fora
+2018;2018-04-18 21:45:00;fase de grupos;Libertad;Peñarol;2;1;2-1;Vitória Casa
+2018;2018-04-25 19:15:00;fase de grupos;Atlético Tucumán;The Strongest;3;0;3-0;Vitória Casa
+2018;2018-04-26 21:30:00;fase de grupos;Peñarol;Libertad;2;0;2-0;Vitória Casa
+2018;2018-05-02 19:15:00;fase de grupos;Atlético Tucumán;Peñarol;1;0;1-0;Vitória Casa
+2018;2018-05-03 21:30:00;fase de grupos;The Strongest;Libertad;1;3;1-3;Vitória Fora
+2018;2018-05-17 19:15:00;fase de grupos;Libertad;Atlético Tucumán;0;0;0-0;Empate
+2018;2018-05-17 19:15:00;fase de grupos;Peñarol;The Strongest;2;0;2-0;Vitória Casa
+2018;2018-02-28 21:45:00;fase de grupos;Flamengo;River Plate;2;2;2-2;Empate
+2018;2018-03-01 19:15:00;fase de grupos;Ind. Santa Fe;Emelec;1;1;1-1;Empate
+2018;2018-03-14 21:45:00;fase de grupos;Emelec;Flamengo;1;2;1-2;Vitória Fora
+2018;2018-04-05 19:15:00;fase de grupos;River Plate;Ind. Santa Fe;0;0;0-0;Empate
+2018;2018-04-18 21:45:00;fase de grupos;Flamengo;Ind. Santa Fe;1;1;1-1;Empate
+2018;2018-04-19 21:30:00;fase de grupos;Emelec;River Plate;0;1;0-1;Vitória Fora
+2018;2018-04-25 21:45:00;fase de grupos;Ind. Santa Fe;Flamengo;0;0;0-0;Empate
+2018;2018-04-26 19:15:00;fase de grupos;River Plate;Emelec;2;1;2-1;Vitória Casa
+2018;2018-05-03 21:30:00;fase de grupos;Ind. Santa Fe;River Plate;0;1;0-1;Vitória Fora
+2018;2018-05-16 21:45:00;fase de grupos;Flamengo;Emelec;2;0;2-0;Vitória Casa
+2018;2018-05-23 21:45:00;fase de grupos;Emelec;Ind. Santa Fe;0;3;0-3;Vitória Fora
+2018;2018-05-23 21:45:00;fase de grupos;River Plate;Flamengo;0;0;0-0;Empate
+2018;2018-02-27 21:30:00;fase de grupos;Racing Club;Cruzeiro;4;2;4-2;Vitória Casa
+2018;2018-03-13 21:30:00;fase de grupos;Vasco;Universidad de Chile;0;1;0-1;Vitória Fora
+2018;2018-04-03 21:30:00;fase de grupos;Universidad de Chile;Racing Club;1;1;1-1;Empate
+2018;2018-04-04 21:45:00;fase de grupos;Cruzeiro;Vasco;0;0;0-0;Empate
+2018;2018-04-19 19:15:00;fase de grupos;Racing Club;Vasco;4;0;4-0;Vitória Casa
+2018;2018-04-19 21:30:00;fase de grupos;Universidad de Chile;Cruzeiro;0;0;0-0;Empate
+2018;2018-04-26 19:15:00;fase de grupos;Cruzeiro;Universidad de Chile;7;0;7-0;Vitória Casa
+2018;2018-04-26 21:30:00;fase de grupos;Vasco;Racing Club;1;1;1-1;Empate
+2018;2018-05-02 21:45:00;fase de grupos;Vasco;Cruzeiro;0;4;0-4;Vitória Fora
+2018;2018-05-03 19:15:00;fase de grupos;Racing Club;Universidad de Chile;1;0;1-0;Vitória Casa
+2018;2018-05-22 21:30:00;fase de grupos;Universidad de Chile;Vasco;0;2;0-2;Vitória Fora
+2018;2018-05-22 21:30:00;fase de grupos;Cruzeiro;Racing Club;2;1;2-1;Vitória Casa
+2018;2018-02-28 19:15:00;fase de grupos;Nacional (URU);Estudiantes;0;0;0-0;Empate
+2018;2018-03-01 19:15:00;fase de grupos;Real Garcilaso;Santos;2;0;2-0;Vitória Casa
+2018;2018-03-14 19:15:00;fase de grupos;Estudiantes;Real Garcilaso;3;0;3-0;Vitória Casa
+2018;2018-03-15 19:15:00;fase de grupos;Santos;Nacional (URU);3;1;3-1;Vitória Casa
+2018;2018-04-03 19:15:00;fase de grupos;Real Garcilaso;Nacional (URU);0;0;0-0;Empate
+2018;2018-04-05 21:30:00;fase de grupos;Estudiantes;Santos;0;1;0-1;Vitória Fora
+2018;2018-04-24 21:30:00;fase de grupos;Santos;Estudiantes;2;0;2-0;Vitória Casa
+2018;2018-04-25 19:15:00;fase de grupos;Nacional (URU);Real Garcilaso;4;0;4-0;Vitória Casa
+2018;2018-05-01 19:15:00;fase de grupos;Real Garcilaso;Estudiantes;0;0;0-0;Empate
+2018;2018-05-01 21:30:00;fase de grupos;Nacional (URU);Santos;1;0;1-0;Vitória Casa
+2018;2018-05-24 19:15:00;fase de grupos;Santos;Real Garcilaso;0;0;0-0;Empate
+2018;2018-05-24 19:15:00;fase de grupos;Estudiantes;Nacional (URU);3;1;3-1;Vitória Casa
+2018;2018-02-28 21:45:00;fase de grupos;Millonarios;Corinthians;0;0;0-0;Empate
+2018;2018-03-01 19:15:00;fase de grupos;Deportivo Lara;Independiente;1;0;1-0;Vitória Casa
+2018;2018-03-14 21:45:00;fase de grupos;Corinthians;Deportivo Lara;2;0;2-0;Vitória Casa
+2018;2018-03-15 21:30:00;fase de grupos;Independiente;Millonarios;1;0;1-0;Vitória Casa
+2018;2018-04-17 21:30:00;fase de grupos;Millonarios;Deportivo Lara;4;0;4-0;Vitória Casa
+2018;2018-04-18 21:45:00;fase de grupos;Independiente;Corinthians;0;1;0-1;Vitória Fora
+2018;2018-04-24 19:15:00;fase de grupos;Deportivo Lara;Millonarios;2;1;2-1;Vitória Casa
+2018;2018-05-02 21:45:00;fase de grupos;Corinthians;Independiente;1;2;1-2;Vitória Fora
+2018;2018-05-17 21:30:00;fase de grupos;Deportivo Lara;Corinthians;2;7;2-7;Vitória Fora
+2018;2018-05-17 21:30:00;fase de grupos;Millonarios;Independiente;1;1;1-1;Empate
+2018;2018-05-24 21:30:00;fase de grupos;Independiente;Deportivo Lara;2;0;2-0;Vitória Casa
+2018;2018-05-24 21:30:00;fase de grupos;Corinthians;Millonarios;0;1;0-1;Vitória Fora
+2018;2018-03-01 21:30:00;fase de grupos;Alianza Lima;Boca Juniors;0;0;0-0;Empate
+2018;2018-03-01 21:30:00;fase de grupos;Junior de Barranquilla;Palmeiras;0;3;0-3;Vitória Fora
+2018;2018-04-03 21:30:00;fase de grupos;Palmeiras;Alianza Lima;2;0;2-0;Vitória Casa
+2018;2018-04-04 21:45:00;fase de grupos;Boca Juniors;Junior de Barranquilla;1;0;1-0;Vitória Casa
+2018;2018-04-11 21:45:00;fase de grupos;Palmeiras;Boca Juniors;1;1;1-1;Empate
+2018;2018-04-19 21:30:00;fase de grupos;Alianza Lima;Junior de Barranquilla;0;2;0-2;Vitória Fora
+2018;2018-04-25 21:45:00;fase de grupos;Boca Juniors;Palmeiras;0;2;0-2;Vitória Fora
+2018;2018-04-26 21:30:00;fase de grupos;Junior de Barranquilla;Alianza Lima;1;0;1-0;Vitória Casa
+2018;2018-05-02 19:15:00;fase de grupos;Junior de Barranquilla;Boca Juniors;1;1;1-1;Empate
+2018;2018-05-03 21:30:00;fase de grupos;Alianza Lima;Palmeiras;1;3;1-3;Vitória Fora
+2018;2018-05-16 21:45:00;fase de grupos;Boca Juniors;Alianza Lima;5;0;5-0;Vitória Casa
+2018;2018-05-16 21:45:00;fase de grupos;Palmeiras;Junior de Barranquilla;3;1;3-1;Vitória Casa
+2018;2018-11-11 17:00:00;final;Boca Juniors;River Plate;2;2;2-2;Empate
+2018;2018-12-09 17:30:00;final;River Plate;Boca Juniors;3;1;3-1;Vitória Casa
+2018;2018-10-23 21:45:00;semifinal;River Plate;Grêmio;0;1;0-1;Vitória Fora
+2018;2018-10-30 21:45:00;semifinal;Grêmio;River Plate;1;2;1-2;Vitória Fora
+2018;2018-10-24 21:45:00;semifinal;Boca Juniors;Palmeiras;2;0;2-0;Vitória Casa
+2018;2018-10-31 21:45:00;semifinal;Palmeiras;Boca Juniors;2;2;2-2;Empate
+2018;2018-09-19 19:30:00;quarterfinals;Independiente;River Plate;0;0;0-0;Empate
+2018;2018-10-02 19:30:00;quarterfinals;River Plate;Independiente;3;1;3-1;Vitória Casa
+2018;2018-09-18 21:45:00;quarterfinals;Atlético Tucumán;Grêmio;0;2;0-2;Vitória Fora
+2018;2018-10-02 21:45:00;quarterfinals;Grêmio;Atlético Tucumán;4;0;4-0;Vitória Casa
+2018;2018-09-20 21:45:00;quarterfinals;Colo-Colo;Palmeiras;0;2;0-2;Vitória Fora
+2018;2018-10-03 21:45:00;quarterfinals;Palmeiras;Colo-Colo;2;0;2-0;Vitória Casa
+2018;2018-09-19 21:45:00;quarterfinals;Boca Juniors;Cruzeiro;2;0;2-0;Vitória Casa
+2018;2018-10-04 21:45:00;quarterfinals;Cruzeiro;Boca Juniors;1;1;1-1;Empate
+2018;2018-08-09 19:30:00;oitavas de final;Racing Club;River Plate;0;0;0-0;Empate
+2018;2018-08-29 19:30:00;oitavas de final;River Plate;Racing Club;3;0;3-0;Vitória Casa
+2018;2018-08-21 21:45:00;oitavas de final;Independiente;Santos;3;0;3-0;Vitória Casa
+2018;2018-08-28 19:30:00;oitavas de final;Santos;Independiente;0;0;0-0;Empate
+2018;2018-08-07 21:45:00;oitavas de final;Estudiantes;Grêmio;2;1;2-1;Vitória Casa
+2018;2018-08-28 21:45:00;oitavas de final;Grêmio;Estudiantes;2;1;2-1;Vitória Casa
+2018;2018-08-09 21:45:00;oitavas de final;Atlético Tucumán;Atlético Nacional;2;0;2-0;Vitória Casa
+2018;2018-08-28 21:45:00;oitavas de final;Atlético Nacional;Atlético Tucumán;1;0;1-0;Vitória Casa
+2018;2018-08-08 21:45:00;oitavas de final;Colo-Colo;Corinthians;1;0;1-0;Vitória Casa
+2018;2018-08-29 21:45:00;oitavas de final;Corinthians;Colo-Colo;2;1;2-1;Vitória Casa
+2018;2018-08-09 21:45:00;oitavas de final;Cerro Porteño;Palmeiras;0;2;0-2;Vitória Fora
+2018;2018-08-30 21:45:00;oitavas de final;Palmeiras;Cerro Porteño;0;1;0-1;Vitória Fora
+2018;2018-08-08 21:45:00;oitavas de final;Flamengo;Cruzeiro;0;2;0-2;Vitória Fora
+2018;2018-08-29 21:45:00;oitavas de final;Cruzeiro;Flamengo;0;1;0-1;Vitória Fora
+2018;2018-08-08 19:30:00;oitavas de final;Boca Juniors;Libertad;2;0;2-0;Vitória Casa
+2018;2018-08-30 19:30:00;oitavas de final;Libertad;Boca Juniors;2;4;2-4;Vitória Fora
+2019;2019-03-06 19:15:00;fase de grupos;Palestino;Internacional;0;1;0-1;Vitória Fora
+2019;2019-03-06 21:30:00;fase de grupos;Alianza Lima;River Plate;1;1;1-1;Empate
+2019;2019-03-13 21:30:00;fase de grupos;Internacional;Alianza Lima;2;0;2-0;Vitória Casa
+2019;2019-03-13 21:30:00;fase de grupos;River Plate;Palestino;0;0;0-0;Empate
+2019;2019-04-02 21:30:00;fase de grupos;Palestino;Alianza Lima;3;0;3-0;Vitória Casa
+2019;2019-04-03 19:15:00;fase de grupos;Internacional;River Plate;2;2;2-2;Empate
+2019;2019-04-09 21:30:00;fase de grupos;Internacional;Palestino;3;2;3-2;Vitória Casa
+2019;2019-04-11 19:00:00;fase de grupos;River Plate;Alianza Lima;3;0;3-0;Vitória Casa
+2019;2019-04-24 19:15:00;fase de grupos;Palestino;River Plate;0;2;0-2;Vitória Fora
+2019;2019-04-24 21:30:00;fase de grupos;Alianza Lima;Internacional;0;1;0-1;Vitória Fora
+2019;2019-05-07 21:30:00;fase de grupos;River Plate;Internacional;2;2;2-2;Empate
+2019;2019-05-07 21:30:00;fase de grupos;Alianza Lima;Palestino;1;2;1-2;Vitória Fora
+2019;2019-03-07 19:00:00;fase de grupos;Huracán;Cruzeiro;0;1;0-1;Vitória Fora
+2019;2019-03-08 16:00:00;fase de grupos;Deportivo Lara;Emelec;0;0;0-0;Empate
+2019;2019-03-14 23:00:00;fase de grupos;Emelec;Huracán;0;0;0-0;Empate
+2019;2019-03-27 21:30:00;fase de grupos;Cruzeiro;Deportivo Lara;2;0;2-0;Vitória Casa
+2019;2019-04-03 21:30:00;fase de grupos;Deportivo Lara;Huracán;2;1;2-1;Vitória Casa
+2019;2019-04-03 21:30:00;fase de grupos;Emelec;Cruzeiro;0;1;0-1;Vitória Fora
+2019;2019-04-10 19:15:00;fase de grupos;Cruzeiro;Huracán;4;0;4-0;Vitória Casa
+2019;2019-04-11 23:00:00;fase de grupos;Emelec;Deportivo Lara;2;2;2-2;Empate
+2019;2019-04-23 17:00:00;fase de grupos;Deportivo Lara;Cruzeiro;0;2;0-2;Vitória Fora
+2019;2019-04-23 19:15:00;fase de grupos;Huracán;Emelec;1;2;1-2;Vitória Fora
+2019;2019-05-08 19:15:00;fase de grupos;Huracán;Deportivo Lara;3;0;3-0;Vitória Casa
+2019;2019-05-08 19:15:00;fase de grupos;Cruzeiro;Emelec;1;2;1-2;Vitória Fora
+2019;2019-03-05 19:15:00;fase de grupos;Godoy Cruz;Olimpia-PAR;0;0;0-0;Empate
+2019;2019-03-06 19:15:00;fase de grupos;Universidad de Concepción;Sporting Cristal;5;4;5-4;Vitória Casa
+2019;2019-03-12 19:15:00;fase de grupos;Olimpia-PAR;Universidad de Concepción;1;1;1-1;Empate
+2019;2019-03-12 21:30:00;fase de grupos;Sporting Cristal;Godoy Cruz;1;1;1-1;Empate
+2019;2019-04-03 19:15:00;fase de grupos;Universidad de Concepción;Godoy Cruz;0;0;0-0;Empate
+2019;2019-04-04 23:00:00;fase de grupos;Sporting Cristal;Olimpia-PAR;0;3;0-3;Vitória Fora
+2019;2019-04-09 19:15:00;fase de grupos;Olimpia-PAR;Godoy Cruz;2;1;2-1;Vitória Casa
+2019;2019-04-10 19:15:00;fase de grupos;Sporting Cristal;Universidad de Concepción;2;0;2-0;Vitória Casa
+2019;2019-04-23 19:15:00;fase de grupos;Universidad de Concepción;Olimpia-PAR;3;3;3-3;Empate
+2019;2019-04-23 21:30:00;fase de grupos;Godoy Cruz;Sporting Cristal;2;0;2-0;Vitória Casa
+2019;2019-05-09 19:15:00;fase de grupos;Godoy Cruz;Universidad de Concepción;1;0;1-0;Vitória Casa
+2019;2019-05-09 19:15:00;fase de grupos;Olimpia-PAR;Sporting Cristal;0;1;0-1;Vitória Fora
+2019;2019-03-05 19:15:00;fase de grupos;San José;Flamengo;0;1;0-1;Vitória Fora
+2019;2019-03-07 21:00:00;fase de grupos;LDU;Peñarol;2;0;2-0;Vitória Casa
+2019;2019-03-13 21:30:00;fase de grupos;Flamengo;LDU;3;1;3-1;Vitória Casa
+2019;2019-03-14 19:00:00;fase de grupos;Peñarol;San José;4;0;4-0;Vitória Casa
+2019;2019-04-02 19:15:00;fase de grupos;San José;LDU;3;3;3-3;Empate
+2019;2019-04-03 21:30:00;fase de grupos;Flamengo;Peñarol;0;1;0-1;Vitória Fora
+2019;2019-04-09 21:30:00;fase de grupos;Peñarol;LDU;1;0;1-0;Vitória Casa
+2019;2019-04-11 21:00:00;fase de grupos;Flamengo;San José;6;1;6-1;Vitória Casa
+2019;2019-04-24 21:30:00;fase de grupos;San José;Peñarol;3;1;3-1;Vitória Casa
+2019;2019-04-24 21:30:00;fase de grupos;LDU;Flamengo;2;1;2-1;Vitória Casa
+2019;2019-05-08 21:30:00;fase de grupos;LDU;San José;4;0;4-0;Vitória Casa
+2019;2019-05-08 21:30:00;fase de grupos;Peñarol;Flamengo;0;0;0-0;Empate
+2019;2019-03-06 19:15:00;fase de grupos;Atlético-MG;Cerro Porteño;0;1;0-1;Vitória Fora
+2019;2019-03-06 21:30:00;fase de grupos;Zamora;Nacional (URU);0;1;0-1;Vitória Fora
+2019;2019-03-12 21:30:00;fase de grupos;Nacional (URU);Atlético-MG;1;0;1-0;Vitória Casa
+2019;2019-03-13 19:15:00;fase de grupos;Cerro Porteño;Zamora;2;1;2-1;Vitória Casa
+2019;2019-04-02 19:15:00;fase de grupos;Cerro Porteño;Nacional (URU);1;0;1-0;Vitória Casa
+2019;2019-04-03 19:15:00;fase de grupos;Atlético-MG;Zamora;3;2;3-2;Vitória Casa
+2019;2019-04-10 19:15:00;fase de grupos;Nacional (URU);Zamora;1;0;1-0;Vitória Casa
+2019;2019-04-10 19:15:00;fase de grupos;Cerro Porteño;Atlético-MG;4;1;4-1;Vitória Casa
+2019;2019-04-23 21:30:00;fase de grupos;Atlético-MG;Nacional (URU);0;1;0-1;Vitória Fora
+2019;2019-04-25 17:00:00;fase de grupos;Zamora;Cerro Porteño;2;1;2-1;Vitória Casa
+2019;2019-05-07 19:15:00;fase de grupos;Zamora;Atlético-MG;1;2;1-2;Vitória Fora
+2019;2019-05-07 19:15:00;fase de grupos;Nacional (URU);Cerro Porteño;1;1;1-1;Empate
+2019;2019-03-05 19:15:00;fase de grupos;Melgar;San Lorenzo;0;0;0-0;Empate
+2019;2019-03-06 21:30:00;fase de grupos;Junior de Barranquilla;Palmeiras;0;2;0-2;Vitória Fora
+2019;2019-03-12 19:15:00;fase de grupos;Palmeiras;Melgar;3;0;3-0;Vitória Casa
+2019;2019-03-13 19:15:00;fase de grupos;San Lorenzo;Junior de Barranquilla;1;0;1-0;Vitória Casa
+2019;2019-04-02 19:15:00;fase de grupos;San Lorenzo;Palmeiras;1;0;1-0;Vitória Casa
+2019;2019-04-02 21:30:00;fase de grupos;Melgar;Junior de Barranquilla;1;0;1-0;Vitória Casa
+2019;2019-04-09 21:30:00;fase de grupos;San Lorenzo;Melgar;2;0;2-0;Vitória Casa
+2019;2019-04-10 21:30:00;fase de grupos;Palmeiras;Junior de Barranquilla;3;0;3-0;Vitória Casa
+2019;2019-04-25 21:00:00;fase de grupos;Junior de Barranquilla;San Lorenzo;1;0;1-0;Vitória Casa
+2019;2019-04-25 23:00:00;fase de grupos;Melgar;Palmeiras;0;4;0-4;Vitória Fora
+2019;2019-05-08 21:30:00;fase de grupos;Junior de Barranquilla;Melgar;0;1;0-1;Vitória Fora
+2019;2019-05-08 21:30:00;fase de grupos;Palmeiras;San Lorenzo;1;0;1-0;Vitória Casa
+2019;2019-03-05 21:30:00;fase de grupos;Jorge Wilstermann;Boca Juniors;0;0;0-0;Empate
+2019;2019-03-05 21:30:00;fase de grupos;Deportes Tolima;Athletico;1;0;1-0;Vitória Casa
+2019;2019-03-12 19:15:00;fase de grupos;Boca Juniors;Deportes Tolima;3;0;3-0;Vitória Casa
+2019;2019-03-14 21:00:00;fase de grupos;Athletico;Jorge Wilstermann;4;0;4-0;Vitória Casa
+2019;2019-04-02 21:30:00;fase de grupos;Athletico;Boca Juniors;3;0;3-0;Vitória Casa
+2019;2019-04-03 21:30:00;fase de grupos;Deportes Tolima;Jorge Wilstermann;2;2;2-2;Empate
+2019;2019-04-09 19:15:00;fase de grupos;Athletico;Deportes Tolima;1;0;1-0;Vitória Casa
+2019;2019-04-10 21:30:00;fase de grupos;Boca Juniors;Jorge Wilstermann;4;0;4-0;Vitória Casa
+2019;2019-04-24 19:15:00;fase de grupos;Jorge Wilstermann;Athletico;3;2;3-2;Vitória Casa
+2019;2019-04-24 21:30:00;fase de grupos;Deportes Tolima;Boca Juniors;2;2;2-2;Empate
+2019;2019-05-09 21:30:00;fase de grupos;Boca Juniors;Athletico;2;1;2-1;Vitória Casa
+2019;2019-05-09 21:30:00;fase de grupos;Jorge Wilstermann;Deportes Tolima;0;2;0-2;Vitória Fora
+2019;2019-03-05 21:30:00;fase de grupos;Libertad;Universidad Católica;4;1;4-1;Vitória Casa
+2019;2019-03-06 21:30:00;fase de grupos;Rosario Central;Grêmio;1;1;1-1;Empate
+2019;2019-03-12 21:30:00;fase de grupos;Grêmio;Libertad;0;1;0-1;Vitória Fora
+2019;2019-03-13 21:30:00;fase de grupos;Universidad Católica;Rosario Central;2;1;2-1;Vitória Casa
+2019;2019-04-04 19:00:00;fase de grupos;Universidad Católica;Grêmio;1;0;1-0;Vitória Casa
+2019;2019-04-04 22:00:00;fase de grupos;Libertad;Rosario Central;2;0;2-0;Vitória Casa
+2019;2019-04-10 21:30:00;fase de grupos;Grêmio;Rosario Central;3;1;3-1;Vitória Casa
+2019;2019-04-10 21:30:00;fase de grupos;Universidad Católica;Libertad;2;3;2-3;Vitória Fora
+2019;2019-04-23 19:15:00;fase de grupos;Libertad;Grêmio;0;2;0-2;Vitória Fora
+2019;2019-04-24 19:15:00;fase de grupos;Rosario Central;Universidad Católica;1;1;1-1;Empate
+2019;2019-05-08 19:15:00;fase de grupos;Rosario Central;Libertad;2;1;2-1;Vitória Casa
+2019;2019-05-08 19:15:00;fase de grupos;Grêmio;Universidad Católica;2;0;2-0;Vitória Casa
+2019;2019-07-23 19:15:00;oitavas de final;River Plate;Cruzeiro;0;0;0-0;Empate
+2019;2019-07-30 19:15:00;oitavas de final;Cruzeiro;River Plate;0;0;0-0;Empate
+2019;2019-07-24 19:15:00;oitavas de final;San Lorenzo;Cerro Porteño;0;0;0-0;Empate
+2019;2019-07-31 19:15:00;oitavas de final;Cerro Porteño;San Lorenzo;2;1;2-1;Vitória Casa
+2019;2019-07-23 21:30:00;oitavas de final;LDU;Olimpia-PAR;3;1;3-1;Vitória Casa
+2019;2019-07-30 21:30:00;oitavas de final;Olimpia-PAR;LDU;1;1;1-1;Empate
+2019;2019-07-24 21:30:00;oitavas de final;Athletico;Boca Juniors;0;1;0-1;Vitória Fora
+2019;2019-07-31 21:30:00;oitavas de final;Boca Juniors;Athletico;2;0;2-0;Vitória Casa
+2019;2019-07-23 21:30:00;oitavas de final;Godoy Cruz;Palmeiras;2;2;2-2;Empate
+2019;2019-07-30 21:30:00;oitavas de final;Palmeiras;Godoy Cruz;4;0;4-0;Vitória Casa
+2019;2019-07-25 21:30:00;oitavas de final;Grêmio;Libertad;2;0;2-0;Vitória Casa
+2019;2019-08-01 21:30:00;oitavas de final;Libertad;Grêmio;0;3;0-3;Vitória Fora
+2019;2019-07-24 21:30:00;oitavas de final;Emelec;Flamengo;2;0;2-0;Vitória Casa
+2019;2019-07-31 21:30:00;oitavas de final;Flamengo;Emelec;2;0;2-0;Vitória Casa
+2019;2019-07-24 19:15:00;oitavas de final;Nacional (URU);Internacional;0;1;0-1;Vitória Fora
+2019;2019-07-31 19:15:00;oitavas de final;Internacional;Nacional (URU);2;0;2-0;Vitória Casa
+2019;2019-08-22 19:15:00;quarterfinals;River Plate;Cerro Porteño;2;0;2-0;Vitória Casa
+2019;2019-08-29 19:15:00;quarterfinals;Cerro Porteño;River Plate;1;1;1-1;Empate
+2019;2019-08-21 19:15:00;quarterfinals;LDU;Boca Juniors;0;3;0-3;Vitória Fora
+2019;2019-08-28 19:15:00;quarterfinals;Boca Juniors;LDU;0;0;0-0;Empate
+2019;2019-08-20 21:30:00;quarterfinals;Grêmio;Palmeiras;0;1;0-1;Vitória Fora
+2019;2019-08-27 21:30:00;quarterfinals;Palmeiras;Grêmio;1;2;1-2;Vitória Fora
+2019;2019-08-21 21:30:00;quarterfinals;Flamengo;Internacional;2;0;2-0;Vitória Casa
+2019;2019-08-28 21:30:00;quarterfinals;Internacional;Flamengo;1;1;1-1;Empate
+2019;2019-10-01 21:30:00;semifinal;River Plate;Boca Juniors;2;0;2-0;Vitória Casa
+2019;2019-10-22 21:30:00;semifinal;Boca Juniors;River Plate;1;0;1-0;Vitória Casa
+2019;2019-10-02 21:30:00;semifinal;Grêmio;Flamengo;1;1;1-1;Empate
+2019;2019-10-23 21:30:00;semifinal;Flamengo;Grêmio;5;0;5-0;Vitória Casa
+2019;2019-11-23 17:00:00;final;Flamengo;River Plate;2;1;2-1;Vitória Casa
+2020;2020-03-04 19:15:00;fase de grupos;Barcelona-EQU;Independiente del Valle;0;3;0-3;Vitória Fora
+2020;2020-03-04 21:30:00;fase de grupos;Junior de Barranquilla;Flamengo;1;2;1-2;Vitória Fora
+2020;2020-03-11 21:30:00;fase de grupos;Flamengo;Barcelona-EQU;3;0;3-0;Vitória Casa
+2020;2020-03-11 21:30:00;fase de grupos;Independiente del Valle;Junior de Barranquilla;3;0;3-0;Vitória Casa
+2020;2020-09-17 21:00:00;fase de grupos;Independiente del Valle;Flamengo;5;0;5-0;Vitória Casa
+2020;2020-09-17 23:00:00;fase de grupos;Barcelona-EQU;Junior de Barranquilla;1;2;1-2;Vitória Fora
+2020;2020-09-22 19:15:00;fase de grupos;Barcelona-EQU;Flamengo;1;2;1-2;Vitória Fora
+2020;2020-09-22 21:30:00;fase de grupos;Junior de Barranquilla;Independiente del Valle;4;1;4-1;Vitória Casa
+2020;2020-09-30 21:30:00;fase de grupos;Junior de Barranquilla;Barcelona-EQU;0;2;0-2;Vitória Fora
+2020;2020-09-30 21:30:00;fase de grupos;Flamengo;Independiente del Valle;4;0;4-0;Vitória Casa
+2020;2020-10-21 21:30:00;fase de grupos;Independiente del Valle;Barcelona-EQU;2;0;2-0;Vitória Casa
+2020;2020-10-21 21:30:00;fase de grupos;Flamengo;Junior de Barranquilla;3;1;3-1;Vitória Casa
+2020;2020-03-04 19:15:00;fase de grupos;Tigre;Palmeiras;0;2;0-2;Vitória Fora
+2020;2020-03-04 21:30:00;fase de grupos;Guaraní-PAR;Bolívar;2;0;2-0;Vitória Casa
+2020;2020-03-10 19:15:00;fase de grupos;Bolívar;Tigre;2;0;2-0;Vitória Casa
+2020;2020-03-10 21:30:00;fase de grupos;Palmeiras;Guaraní-PAR;3;1;3-1;Vitória Casa
+2020;2020-09-16 21:30:00;fase de grupos;Bolívar;Palmeiras;1;2;1-2;Vitória Fora
+2020;2020-09-17 23:00:00;fase de grupos;Guaraní-PAR;Tigre;4;1;4-1;Vitória Casa
+2020;2020-09-22 19:15:00;fase de grupos;Tigre;Bolívar;1;1;1-1;Empate
+2020;2020-09-23 21:30:00;fase de grupos;Guaraní-PAR;Palmeiras;0;0;0-0;Empate
+2020;2020-09-30 19:15:00;fase de grupos;Palmeiras;Bolívar;5;0;5-0;Vitória Casa
+2020;2020-10-01 21:00:00;fase de grupos;Tigre;Guaraní-PAR;1;3;1-3;Vitória Fora
+2020;2020-10-21 21:30:00;fase de grupos;Bolívar;Guaraní-PAR;2;3;2-3;Vitória Fora
+2020;2020-10-21 21:30:00;fase de grupos;Palmeiras;Tigre;5;0;5-0;Vitória Casa
+2020;2020-03-03 21:30:00;fase de grupos;Athletico;Peñarol;1;0;1-0;Vitória Casa
+2020;2020-03-04 19:15:00;fase de grupos;Jorge Wilstermann;Colo-Colo;2;0;2-0;Vitória Casa
+2020;2020-03-11 19:15:00;fase de grupos;Peñarol;Jorge Wilstermann;1;0;1-0;Vitória Casa
+2020;2020-03-11 19:15:00;fase de grupos;Colo-Colo;Athletico;1;0;1-0;Vitória Casa
+2020;2020-09-15 19:15:00;fase de grupos;Jorge Wilstermann;Athletico;2;3;2-3;Vitória Fora
+2020;2020-09-15 19:15:00;fase de grupos;Colo-Colo;Peñarol;2;1;2-1;Vitória Casa
+2020;2020-09-23 19:15:00;fase de grupos;Athletico;Colo-Colo;2;0;2-0;Vitória Casa
+2020;2020-09-24 19:00:00;fase de grupos;Jorge Wilstermann;Peñarol;3;1;3-1;Vitória Casa
+2020;2020-09-29 19:15:00;fase de grupos;Peñarol;Colo-Colo;3;0;3-0;Vitória Casa
+2020;2020-09-29 21:30:00;fase de grupos;Athletico;Jorge Wilstermann;0;0;0-0;Empate
+2020;2020-10-20 21:30:00;fase de grupos;Peñarol;Athletico;3;2;3-2;Vitória Casa
+2020;2020-10-20 21:30:00;fase de grupos;Colo-Colo;Jorge Wilstermann;0;1;0-1;Vitória Fora
+2020;2020-03-04 21:30:00;fase de grupos;LDU;River Plate;3;0;3-0;Vitória Casa
+2020;2020-03-05 21:00:00;fase de grupos;Binacional;São Paulo;2;1;2-1;Vitória Casa
+2020;2020-03-11 19:15:00;fase de grupos;River Plate;Binacional;8;0;8-0;Vitória Casa
+2020;2020-03-11 21:30:00;fase de grupos;São Paulo;LDU;3;0;3-0;Vitória Casa
+2020;2020-09-15 21:30:00;fase de grupos;Binacional;LDU;0;1;0-1;Vitória Fora
+2020;2020-09-17 19:00:00;fase de grupos;São Paulo;River Plate;2;2;2-2;Empate
+2020;2020-09-22 21:30:00;fase de grupos;LDU;São Paulo;4;2;4-2;Vitória Casa
+2020;2020-09-22 21:30:00;fase de grupos;Binacional;River Plate;0;6;0-6;Vitória Fora
+2020;2020-09-29 21:30:00;fase de grupos;LDU;Binacional;4;0;4-0;Vitória Casa
+2020;2020-09-30 21:30:00;fase de grupos;River Plate;São Paulo;2;1;2-1;Vitória Casa
+2020;2020-10-20 21:30:00;fase de grupos;River Plate;LDU;3;0;3-0;Vitória Casa
+2020;2020-10-20 21:30:00;fase de grupos;São Paulo;Binacional;5;1;5-1;Vitória Casa
+2020;2020-03-03 19:15:00;fase de grupos;Internacional;Universidad Católica;3;0;3-0;Vitória Casa
+2020;2020-03-03 21:30:00;fase de grupos;América de Cali;Grêmio;0;2;0-2;Vitória Fora
+2020;2020-03-10 19:15:00;fase de grupos;Universidad Católica;América de Cali;1;2;1-2;Vitória Fora
+2020;2020-03-12 21:00:00;fase de grupos;Grêmio;Internacional;0;0;0-0;Empate
+2020;2020-09-16 19:15:00;fase de grupos;Internacional;América de Cali;4;3;4-3;Vitória Casa
+2020;2020-09-16 21:30:00;fase de grupos;Universidad Católica;Grêmio;2;0;2-0;Vitória Casa
+2020;2020-09-23 21:30:00;fase de grupos;América de Cali;Universidad Católica;1;1;1-1;Empate
+2020;2020-09-23 21:30:00;fase de grupos;Internacional;Grêmio;0;1;0-1;Vitória Fora
+2020;2020-09-29 19:15:00;fase de grupos;Grêmio;Universidad Católica;2;0;2-0;Vitória Casa
+2020;2020-09-29 21:30:00;fase de grupos;América de Cali;Internacional;0;0;0-0;Empate
+2020;2020-10-22 21:30:00;fase de grupos;Universidad Católica;Internacional;2;1;2-1;Vitória Casa
+2020;2020-10-22 21:30:00;fase de grupos;Grêmio;América de Cali;1;1;1-1;Empate
+2020;2020-03-05 19:00:00;fase de grupos;Estudiantes de Mérida;Racing Club;1;2;1-2;Vitória Fora
+2020;2020-03-05 23:00:00;fase de grupos;Alianza Lima;Nacional-URU;0;1;0-1;Vitória Fora
+2020;2020-03-12 19:00:00;fase de grupos;Nacional-URU;Estudiantes de Mérida;1;0;1-0;Vitória Casa
+2020;2020-03-12 21:00:00;fase de grupos;Racing Club;Alianza Lima;1;0;1-0;Vitória Casa
+2020;2020-09-16 19:15:00;fase de grupos;Estudiantes de Mérida;Alianza Lima;3;2;3-2;Vitória Casa
+2020;2020-09-17 17:00:00;fase de grupos;Racing Club;Nacional-URU;0;1;0-1;Vitória Fora
+2020;2020-09-22 19:15:00;fase de grupos;Estudiantes de Mérida;Nacional-URU;1;3;1-3;Vitória Fora
+2020;2020-09-23 21:30:00;fase de grupos;Alianza Lima;Racing Club;0;2;0-2;Vitória Fora
+2020;2020-09-30 19:15:00;fase de grupos;Nacional-URU;Racing Club;1;2;1-2;Vitória Fora
+2020;2020-09-30 21:30:00;fase de grupos;Alianza Lima;Estudiantes de Mérida;2;2;2-2;Empate
+2020;2020-10-21 19:15:00;fase de grupos;Nacional-URU;Alianza Lima;2;0;2-0;Vitória Casa
+2020;2020-10-21 19:15:00;fase de grupos;Racing Club;Estudiantes de Mérida;2;1;2-1;Vitória Casa
+2020;2020-03-03 19:15:00;fase de grupos;Defensa y Justicia;Santos;1;2;1-2;Vitória Fora
+2020;2020-03-04 21:30:00;fase de grupos;Delfín;Olimpia-PAR;1;1;1-1;Empate
+2020;2020-03-10 19:15:00;fase de grupos;Santos;Delfín;1;0;1-0;Vitória Casa
+2020;2020-03-11 21:30:00;fase de grupos;Olimpia-PAR;Defensa y Justicia;2;1;2-1;Vitória Casa
+2020;2020-09-15 21:30:00;fase de grupos;Santos;Olimpia-PAR;0;0;0-0;Empate
+2020;2020-09-17 19:00:00;fase de grupos;Defensa y Justicia;Delfín;3;0;3-0;Vitória Casa
+2020;2020-09-23 19:15:00;fase de grupos;Defensa y Justicia;Olimpia-PAR;2;1;2-1;Vitória Casa
+2020;2020-09-24 23:00:00;fase de grupos;Delfín;Santos;1;2;1-2;Vitória Fora
+2020;2020-10-01 19:00:00;fase de grupos;Olimpia-PAR;Santos;2;3;2-3;Vitória Fora
+2020;2020-10-01 23:00:00;fase de grupos;Delfín;Defensa y Justicia;3;0;3-0;Vitória Casa
+2020;2020-10-20 19:15:00;fase de grupos;Olimpia-PAR;Delfín;0;1;0-1;Vitória Fora
+2020;2020-10-20 19:15:00;fase de grupos;Santos;Defensa y Justicia;2;1;2-1;Vitória Casa
+2020;2020-03-03 21:30:00;fase de grupos;Independiente Medellín;Libertad-PAR;1;2;1-2;Vitória Fora
+2020;2020-03-03 21:30:00;fase de grupos;Caracas;Boca Juniors;1;1;1-1;Empate
+2020;2020-03-10 21:30:00;fase de grupos;Boca Juniors;Independiente Medellín;3;0;3-0;Vitória Casa
+2020;2020-03-10 21:30:00;fase de grupos;Libertad-PAR;Caracas;3;2;3-2;Vitória Casa
+2020;2020-09-16 21:30:00;fase de grupos;Independiente Medellín;Caracas;2;3;2-3;Vitória Fora
+2020;2020-09-17 21:00:00;fase de grupos;Libertad-PAR;Boca Juniors;0;2;0-2;Vitória Fora
+2020;2020-09-23 19:15:00;fase de grupos;Caracas;Libertad-PAR;2;1;2-1;Vitória Casa
+2020;2020-09-24 21:00:00;fase de grupos;Independiente Medellín;Boca Juniors;0;1;0-1;Vitória Fora
+2020;2020-09-29 21:30:00;fase de grupos;Boca Juniors;Libertad-PAR;0;0;0-0;Empate
+2020;2020-09-30 19:15:00;fase de grupos;Caracas;Independiente Medellín;0;2;0-2;Vitória Fora
+2020;2020-10-22 21:30:00;fase de grupos;Libertad-PAR;Independiente Medellín;2;4;2-4;Vitória Fora
+2020;2020-10-22 21:30:00;fase de grupos;Boca Juniors;Caracas;3;0;3-0;Vitória Casa
+2020;2020-11-26 21:30:00;oitavas de final;Guaraní-PAR;Grêmio;0;2;0-2;Vitória Fora
+2020;2020-12-03 21:30:00;oitavas de final;Grêmio;Guaraní-PAR;2;0;2-0;Vitória Casa
+2020;2020-11-24 19:15:00;oitavas de final;LDU;Santos;1;2;1-2;Vitória Fora
+2020;2020-12-01 19:15:00;oitavas de final;Santos;LDU;0;1;0-1;Vitória Fora
+2020;2020-11-24 21:30:00;oitavas de final;Racing Club;Flamengo;1;1;1-1;Empate
+2020;2020-12-01 21:30:00;oitavas de final;Flamengo;Racing Club;1;1;1-1;Empate
+2020;2020-12-02 21:30:00;oitavas de final;Internacional;Boca Juniors;0;1;0-1;Vitória Fora
+2020;2020-12-09 21:30:00;oitavas de final;Boca Juniors;Internacional;0;1;0-1;Vitória Fora
+2020;2020-11-25 19:15:00;oitavas de final;Independiente del Valle;Nacional-URU;0;0;0-0;Empate
+2020;2020-12-02 19:15:00;oitavas de final;Nacional-URU;Independiente del Valle;0;0;0-0;Empate
+2020;2020-11-24 19:15:00;oitavas de final;Athletico;River Plate;1;1;1-1;Empate
+2020;2020-12-01 19:15:00;oitavas de final;River Plate;Athletico;1;0;1-0;Vitória Casa
+2020;2020-11-25 21:30:00;oitavas de final;Libertad-PAR;Jorge Wilstermann;3;1;3-1;Vitória Casa
+2020;2020-12-02 21:30:00;oitavas de final;Jorge Wilstermann;Libertad-PAR;0;2;0-2;Vitória Fora
+2020;2020-11-25 19:15:00;oitavas de final;Delfín;Palmeiras;1;3;1-3;Vitória Fora
+2020;2020-12-02 19:15:00;oitavas de final;Palmeiras;Delfín;5;0;5-0;Vitória Casa
+2020;2020-12-09 19:15:00;quarterfinals;Grêmio;Santos;1;1;1-1;Empate
+2020;2020-12-16 19:15:00;quarterfinals;Santos;Grêmio;4;1;4-1;Vitória Casa
+2020;2020-12-16 21:30:00;quarterfinals;Racing Club;Boca Juniors;1;0;1-0;Vitória Casa
+2020;2020-12-23 21:30:00;quarterfinals;Boca Juniors;Racing Club;2;0;2-0;Vitória Casa
+2020;2020-12-10 21:30:00;quarterfinals;River Plate;Nacional-URU;2;0;2-0;Vitória Casa
+2020;2020-12-17 21:30:00;quarterfinals;Nacional-URU;River Plate;2;6;2-6;Vitória Fora
+2020;2020-12-08 21:30:00;quarterfinals;Libertad-PAR;Palmeiras;1;1;1-1;Empate
+2020;2020-12-15 21:30:00;quarterfinals;Palmeiras;Libertad-PAR;3;0;3-0;Vitória Casa
+2020;2020-01-06 19:15:00;semifinal;Boca Juniors;Santos;0;0;0-0;Empate
+2020;2020-01-13 19:15:00;semifinal;Santos;Boca Juniors;3;0;3-0;Vitória Casa
+2020;2020-01-05 21:30:00;semifinal;River Plate;Palmeiras;0;3;0-3;Vitória Fora
+2020;2020-01-12 21:30:00;semifinal;Palmeiras;River Plate;0;2;0-2;Vitória Fora
+2020;2020-01-30 17:00:00;final;Palmeiras;Santos;1;0;1-0;Vitória Casa
+2021;2021-04-21 21:00:00;fase de grupos;Universitario-PER;Palmeiras;2;3;2-3;Vitória Fora
+2021;2021-04-21 21:00:00;fase de grupos;Independiente del Valle;Defensa y Justicia;1;1;1-1;Empate
+2021;2021-04-27 21:30:00;fase de grupos;Palmeiras;Independiente del Valle;5;0;5-0;Vitória Casa
+2021;2021-04-28 19:00:00;fase de grupos;Defensa y Justicia;Universitario-PER;3;0;3-0;Vitória Casa
+2021;2021-05-04 21:30:00;fase de grupos;Defensa y Justicia;Palmeiras;1;2;1-2;Vitória Fora
+2021;2021-05-05 19:00:00;fase de grupos;Independiente del Valle;Universitario-PER;4;0;4-0;Vitória Casa
+2021;2021-05-11 21:30:00;fase de grupos;Independiente del Valle;Palmeiras;0;1;0-1;Vitória Fora
+2021;2021-05-12 23:00:00;fase de grupos;Universitario-PER;Defensa y Justicia;1;1;1-1;Empate
+2021;2021-05-18 19:15:00;fase de grupos;Palmeiras;Defensa y Justicia;3;4;3-4;Vitória Fora
+2021;2021-05-18 21:30:00;fase de grupos;Universitario-PER;Independiente del Valle;3;2;3-2;Vitória Casa
+2021;2021-05-27 19:00:00;fase de grupos;Palmeiras;Universitario-PER;6;0;6-0;Vitória Casa
+2021;2021-05-27 19:00:00;fase de grupos;Defensa y Justicia;Independiente del Valle;1;1;1-1;Empate
+2021;2021-04-20 19:15:00;fase de grupos;Always Ready;Internacional;2;0;2-0;Vitória Casa
+2021;2021-04-20 19:15:00;fase de grupos;Deportivo Táchira;Olimpia-PAR;3;2;3-2;Vitória Casa
+2021;2021-04-27 21:30:00;fase de grupos;Internacional;Deportivo Táchira;4;0;4-0;Vitória Casa
+2021;2021-04-28 23:00:00;fase de grupos;Olimpia-PAR;Always Ready;2;1;2-1;Vitória Casa
+2021;2021-05-05 21:00:00;fase de grupos;Internacional;Olimpia-PAR;6;1;6-1;Vitória Casa
+2021;2021-05-06 19:00:00;fase de grupos;Always Ready;Deportivo Táchira;2;0;2-0;Vitória Casa
+2021;2021-05-11 19:15:00;fase de grupos;Deportivo Táchira;Internacional;2;1;2-1;Vitória Casa
+2021;2021-05-13 21:00:00;fase de grupos;Always Ready;Olimpia-PAR;1;2;1-2;Vitória Fora
+2021;2021-05-19 23:00:00;fase de grupos;Deportivo Táchira;Always Ready;7;2;7-2;Vitória Casa
+2021;2021-05-20 21:00:00;fase de grupos;Olimpia-PAR;Internacional;0;1;0-1;Vitória Fora
+2021;2021-05-26 19:00:00;fase de grupos;Internacional;Always Ready;0;0;0-0;Empate
+2021;2021-05-26 19:00:00;fase de grupos;Olimpia-PAR;Deportivo Táchira;6;2;6-2;Vitória Casa
+2021;2021-04-20 19:15:00;fase de grupos;Santos;Barcelona-EQU;0;2;0-2;Vitória Fora
+2021;2021-04-21 19:00:00;fase de grupos;The Strongest;Boca Juniors;0;1;0-1;Vitória Fora
+2021;2021-04-27 21:30:00;fase de grupos;Boca Juniors;Santos;2;0;2-0;Vitória Casa
+2021;2021-04-28 23:00:00;fase de grupos;Barcelona-EQU;The Strongest;4;0;4-0;Vitória Casa
+2021;2021-05-04 19:15:00;fase de grupos;Santos;The Strongest;5;0;5-0;Vitória Casa
+2021;2021-05-04 21:30:00;fase de grupos;Barcelona-EQU;Boca Juniors;1;0;1-0;Vitória Casa
+2021;2021-05-11 19:15:00;fase de grupos;Santos;Boca Juniors;1;0;1-0;Vitória Casa
+2021;2021-05-11 19:15:00;fase de grupos;The Strongest;Barcelona-EQU;2;0;2-0;Vitória Casa
+2021;2021-05-18 19:15:00;fase de grupos;The Strongest;Santos;2;1;2-1;Vitória Casa
+2021;2021-05-20 21:00:00;fase de grupos;Boca Juniors;Barcelona-EQU;0;0;0-0;Empate
+2021;2021-05-26 21:00:00;fase de grupos;Boca Juniors;The Strongest;3;0;3-0;Vitória Casa
+2021;2021-05-26 21:00:00;fase de grupos;Barcelona-EQU;Santos;3;1;3-1;Vitória Casa
+2021;2021-04-22 19:00:00;fase de grupos;Fluminense;River Plate;1;1;1-1;Empate
+2021;2021-04-22 23:00:00;fase de grupos;Junior de Barranquilla;Ind. Santa Fe;1;1;1-1;Empate
+2021;2021-04-28 21:00:00;fase de grupos;River Plate;Junior de Barranquilla;2;1;2-1;Vitória Casa
+2021;2021-04-28 21:00:00;fase de grupos;Ind. Santa Fe;Fluminense;1;2;1-2;Vitória Fora
+2021;2021-05-06 21:00:00;fase de grupos;Ind. Santa Fe;River Plate;0;0;0-0;Empate
+2021;2021-05-06 21:00:00;fase de grupos;Junior de Barranquilla;Fluminense;1;1;1-1;Empate
+2021;2021-05-12 21:00:00;fase de grupos;Junior de Barranquilla;River Plate;1;1;1-1;Empate
+2021;2021-05-12 21:00:00;fase de grupos;Fluminense;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2021;2021-05-18 21:30:00;fase de grupos;Fluminense;Junior de Barranquilla;1;2;1-2;Vitória Fora
+2021;2021-05-19 21:00:00;fase de grupos;River Plate;Ind. Santa Fe;2;1;2-1;Vitória Casa
+2021;2021-05-25 19:15:00;fase de grupos;River Plate;Fluminense;1;3;1-3;Vitória Fora
+2021;2021-05-25 19:15:00;fase de grupos;Ind. Santa Fe;Junior de Barranquilla;0;0;0-0;Empate
+2021;2021-04-20 21:30:00;fase de grupos;Sporting Cristal;São Paulo;0;3;0-3;Vitória Fora
+2021;2021-04-21 21:00:00;fase de grupos;Rentistas ;Racing Club;1;1;1-1;Empate
+2021;2021-04-29 19:00:00;fase de grupos;Racing Club;Sporting Cristal;2;1;2-1;Vitória Casa
+2021;2021-04-29 21:00:00;fase de grupos;São Paulo;Rentistas ;2;0;2-0;Vitória Casa
+2021;2021-05-05 19:00:00;fase de grupos;Racing Club;São Paulo;0;0;0-0;Empate
+2021;2021-05-05 21:00:00;fase de grupos;Rentistas ;Sporting Cristal;0;0;0-0;Empate
+2021;2021-05-11 21:30:00;fase de grupos;Sporting Cristal;Racing Club;0;2;0-2;Vitória Fora
+2021;2021-05-12 19:00:00;fase de grupos;Rentistas ;São Paulo;1;1;1-1;Empate
+2021;2021-05-18 21:30:00;fase de grupos;São Paulo;Racing Club;0;1;0-1;Vitória Fora
+2021;2021-05-19 19:00:00;fase de grupos;Sporting Cristal;Rentistas ;2;0;2-0;Vitória Casa
+2021;2021-05-25 21:30:00;fase de grupos;São Paulo;Sporting Cristal;3;0;3-0;Vitória Casa
+2021;2021-05-25 21:30:00;fase de grupos;Racing Club;Rentistas ;3;0;3-0;Vitória Casa
+2021;2021-04-20 19:15:00;fase de grupos;Argentinos Juniors;Nacional-URU;2;0;2-0;Vitória Casa
+2021;2021-04-22 21:00:00;fase de grupos;Atlético Nacional;Universidad Católica;2;0;2-0;Vitória Casa
+2021;2021-04-28 19:00:00;fase de grupos;Nacional-URU;Atlético Nacional;4;4;4-4;Empate
+2021;2021-04-29 19:00:00;fase de grupos;Universidad Católica;Argentinos Juniors;0;2;0-2;Vitória Fora
+2021;2021-05-05 23:00:00;fase de grupos;Universidad Católica;Nacional-URU;3;1;3-1;Vitória Casa
+2021;2021-05-06 19:00:00;fase de grupos;Atlético Nacional;Argentinos Juniors;0;2;0-2;Vitória Fora
+2021;2021-05-12 19:00:00;fase de grupos;Argentinos Juniors;Universidad Católica;0;1;0-1;Vitória Fora
+2021;2021-05-12 23:00:00;fase de grupos;Atlético Nacional;Nacional-URU;0;0;0-0;Empate
+2021;2021-05-18 19:15:00;fase de grupos;Nacional-URU;Universidad Católica;1;0;1-0;Vitória Casa
+2021;2021-05-20 19:00:00;fase de grupos;Argentinos Juniors;Atlético Nacional;1;0;1-0;Vitória Casa
+2021;2021-05-26 23:00:00;fase de grupos;Nacional-URU;Argentinos Juniors;2;0;2-0;Vitória Casa
+2021;2021-05-26 23:00:00;fase de grupos;Universidad Católica;Atlético Nacional;2;0;2-0;Vitória Casa
+2021;2021-04-20 21:30:00;fase de grupos;Vélez Sarsfield;Flamengo;2;3;2-3;Vitória Fora
+2021;2021-04-21 23:00:00;fase de grupos;Unión La Calera;LDU;2;2;2-2;Empate
+2021;2021-04-27 19:15:00;fase de grupos;Flamengo;Unión La Calera;4;1;4-1;Vitória Casa
+2021;2021-04-27 19:15:00;fase de grupos;LDU;Vélez Sarsfield;3;1;3-1;Vitória Casa
+2021;2021-05-04 19:15:00;fase de grupos;Unión La Calera;Vélez Sarsfield;0;2;0-2;Vitória Fora
+2021;2021-05-04 21:30:00;fase de grupos;LDU;Flamengo;2;3;2-3;Vitória Fora
+2021;2021-05-11 21:30:00;fase de grupos;Unión La Calera;Flamengo;2;2;2-2;Empate
+2021;2021-05-13 19:00:00;fase de grupos;Vélez Sarsfield;LDU;3;1;3-1;Vitória Casa
+2021;2021-05-19 19:00:00;fase de grupos;Vélez Sarsfield;Unión La Calera;2;1;2-1;Vitória Casa
+2021;2021-05-19 21:00:00;fase de grupos;Flamengo;LDU;2;2;2-2;Empate
+2021;2021-05-27 21:00:00;fase de grupos;Flamengo;Vélez Sarsfield;0;0;0-0;Empate
+2021;2021-05-27 21:00:00;fase de grupos;LDU;Unión La Calera;5;2;5-2;Vitória Casa
+2021;2021-04-21 19:00:00;fase de grupos;La Guaira;Atlético-MG;1;1;1-1;Empate
+2021;2021-04-21 23:00:00;fase de grupos;América de Cali;Cerro Porteño;0;2;0-2;Vitória Fora
+2021;2021-04-27 19:15:00;fase de grupos;Atlético-MG;América de Cali;2;1;2-1;Vitória Casa
+2021;2021-04-28 19:00:00;fase de grupos;Cerro Porteño;La Guaira;0;0;0-0;Empate
+2021;2021-05-04 19:15:00;fase de grupos;Atlético-MG;Cerro Porteño;4;0;4-0;Vitória Casa
+2021;2021-05-06 23:00:00;fase de grupos;La Guaira;América de Cali;0;0;0-0;Empate
+2021;2021-05-12 21:00:00;fase de grupos;La Guaira;Cerro Porteño;0;1;0-1;Vitória Fora
+2021;2021-05-13 21:00:00;fase de grupos;América de Cali;Atlético-MG;1;3;1-3;Vitória Fora
+2021;2021-05-19 21:00:00;fase de grupos;Cerro Porteño;Atlético-MG;0;1;0-1;Vitória Fora
+2021;2021-05-19 23:00:00;fase de grupos;América de Cali;La Guaira;3;1;3-1;Vitória Casa
+2021;2021-05-25 21:30:00;fase de grupos;Atlético-MG;La Guaira;4;0;4-0;Vitória Casa
+2021;2021-05-25 21:30:00;fase de grupos;Cerro Porteño;América de Cali;1;0;1-0;Vitória Casa
+2021;2021-07-14 21:30:00;oitavas de final;Defensa y Justicia;Flamengo;0;1;0-1;Vitória Fora
+2021;2021-07-21 21:30:00;oitavas de final;Flamengo;Defensa y Justicia;4;1;4-1;Vitória Casa
+2021;2021-07-15 21:30:00;oitavas de final;Olimpia-PAR;Internacional;0;0;0-0;Empate
+2021;2021-07-22 21:30:00;oitavas de final;Internacional;Olimpia-PAR;0;0;0-0;Empate
+2021;2021-07-14 19:15:00;oitavas de final;Vélez Sarsfield;Barcelona-EQU;1;0;1-0;Vitória Casa
+2021;2021-07-21 19:15:00;oitavas de final;Barcelona-EQU;Vélez Sarsfield;3;1;3-1;Vitória Casa
+2021;2021-07-13 19:15:00;oitavas de final;Cerro Porteño;Fluminense;0;2;0-2;Vitória Fora
+2021;2021-08-03 19:15:00;oitavas de final;Fluminense;Cerro Porteño;1;0;1-0;Vitória Casa
+2021;2021-07-13 19:15:00;oitavas de final;Boca Juniors;Atlético-MG;0;0;0-0;Empate
+2021;2021-07-20 19:15:00;oitavas de final;Atlético-MG;Boca Juniors;0;0;0-0;Empate
+2021;2021-07-14 21:30:00;oitavas de final;River Plate;Argentinos Juniors;1;1;1-1;Empate
+2021;2021-07-21 21:30:00;oitavas de final;Argentinos Juniors;River Plate;0;2;0-2;Vitória Fora
+2021;2021-07-13 21:30:00;oitavas de final;São Paulo;Racing Club;1;1;1-1;Empate
+2021;2021-07-20 21:30:00;oitavas de final;Racing Club;São Paulo;1;3;1-3;Vitória Fora
+2021;2021-07-14 19:15:00;oitavas de final;Universidad Católica;Palmeiras;0;1;0-1;Vitória Fora
+2021;2021-07-21 19:15:00;oitavas de final;Palmeiras;Universidad Católica;1;0;1-0;Vitória Casa
+2021;2021-08-11 19:15:00;quarterfinals;Olimpia-PAR;Flamengo;1;4;1-4;Vitória Fora
+2021;2021-08-18 19:15:00;quarterfinals;Flamengo;Olimpia-PAR;5;1;5-1;Vitória Casa
+2021;2021-08-12 21:30:00;quarterfinals;Fluminense;Barcelona-EQU;2;2;2-2;Empate
+2021;2021-08-19 21:30:00;quarterfinals;Barcelona-EQU;Fluminense;1;1;1-1;Empate
+2021;2021-08-11 21:30:00;quarterfinals;River Plate;Atlético-MG;0;1;0-1;Vitória Fora
+2021;2021-08-18 21:30:00;quarterfinals;Atlético-MG;River Plate;3;0;3-0;Vitória Casa
+2021;2021-08-10 21:30:00;quarterfinals;São Paulo;Palmeiras;1;1;1-1;Empate
+2021;2021-08-17 21:30:00;quarterfinals;Palmeiras;São Paulo;3;0;3-0;Vitória Casa
+2021;2021-09-22 21:30:00;semifinal;Flamengo;Barcelona-EQU;2;0;2-0;Vitória Casa
+2021;2021-09-29 21:30:00;semifinal;Barcelona-EQU;Flamengo;0;2;0-2;Vitória Fora
+2021;2021-09-21 21:30:00;semifinal;Palmeiras;Atlético-MG;0;0;0-0;Empate
+2021;2021-09-28 21:30:00;semifinal;Atlético-MG;Palmeiras;1;1;1-1;Empate
+2021;2021-11-27 17:00:00;final;Palmeiras;Flamengo;2;1;2-1;Vitória Casa
+2022;2022-04-06 21:00:00;fase de grupos;Deportivo Táchira;Palmeiras;0;4;0-4;Vitória Fora
+2022;2022-04-06 23:00:00;fase de grupos;Independiente Petrolero;Emelec;1;1;1-1;Empate
+2022;2022-04-12 21:30:00;fase de grupos;Palmeiras;Independiente Petrolero;8;1;8-1;Vitória Casa
+2022;2022-04-14 23:00:00;fase de grupos;Emelec;Deportivo Táchira;1;1;1-1;Empate
+2022;2022-04-26 19:15:00;fase de grupos;Independiente Petrolero;Deportivo Táchira;1;2;1-2;Vitória Fora
+2022;2022-04-27 21:00:00;fase de grupos;Emelec;Palmeiras;1;3;1-3;Vitória Fora
+2022;2022-05-03 19:15:00;fase de grupos;Deportivo Táchira;Emelec;1;4;1-4;Vitória Fora
+2022;2022-05-03 21:30:00;fase de grupos;Independiente Petrolero;Palmeiras;0;5;0-5;Vitória Fora
+2022;2022-05-18 19:00:00;fase de grupos;Palmeiras;Emelec;1;0;1-0;Vitória Casa
+2022;2022-05-18 21:00:00;fase de grupos;Deportivo Táchira;Independiente Petrolero;3;0;3-0;Vitória Casa
+2022;2022-05-24 21:30:00;fase de grupos;Palmeiras;Deportivo Táchira;4;1;4-1;Vitória Casa
+2022;2022-05-24 21:30:00;fase de grupos;Emelec;Independiente Petrolero;7;0;7-0;Vitória Casa
+2022;2022-04-05 19:15:00;fase de grupos;Caracas;Athletico;0;0;0-0;Empate
+2022;2022-04-07 23:00:00;fase de grupos;The Strongest;Libertad-PAR;1;1;1-1;Empate
+2022;2022-04-13 19:00:00;fase de grupos;Libertad-PAR;Caracas;2;1;2-1;Vitória Casa
+2022;2022-04-14 19:00:00;fase de grupos;Athletico;The Strongest;1;0;1-0;Vitória Casa
+2022;2022-04-26 19:15:00;fase de grupos;Libertad-PAR;Athletico;1;0;1-0;Vitória Casa
+2022;2022-04-27 23:00:00;fase de grupos;The Strongest;Caracas;1;1;1-1;Empate
+2022;2022-05-03 19:15:00;fase de grupos;The Strongest;Athletico;5;0;5-0;Vitória Casa
+2022;2022-05-03 19:15:00;fase de grupos;Caracas;Libertad-PAR;1;0;1-0;Vitória Casa
+2022;2022-05-17 19:15:00;fase de grupos;Caracas;The Strongest;0;0;0-0;Empate
+2022;2022-05-18 19:00:00;fase de grupos;Athletico;Libertad-PAR;2;0;2-0;Vitória Casa
+2022;2022-05-26 19:00:00;fase de grupos;Libertad-PAR;The Strongest;4;1;4-1;Vitória Casa
+2022;2022-05-26 19:00:00;fase de grupos;Athletico;Caracas;5;1;5-1;Vitória Casa
+2022;2022-04-06 19:00:00;fase de grupos;Red Bull Bragantino;Nacional-URU;2;0;2-0;Vitória Casa
+2022;2022-04-07 21:00:00;fase de grupos;Estudiantes;Vélez Sarsfield;4;1;4-1;Vitória Casa
+2022;2022-04-13 21:00:00;fase de grupos;Nacional-URU;Estudiantes;0;0;0-0;Empate
+2022;2022-04-14 21:00:00;fase de grupos;Vélez Sarsfield;Red Bull Bragantino;2;2;2-2;Empate
+2022;2022-04-26 19:15:00;fase de grupos;Vélez Sarsfield;Nacional-URU;1;2;1-2;Vitória Fora
+2022;2022-04-26 19:15:00;fase de grupos;Estudiantes;Red Bull Bragantino;2;0;2-0;Vitória Casa
+2022;2022-05-03 21:30:00;fase de grupos;Estudiantes;Nacional-URU;1;0;1-0;Vitória Casa
+2022;2022-05-05 21:00:00;fase de grupos;Red Bull Bragantino;Vélez Sarsfield;1;1;1-1;Empate
+2022;2022-05-17 19:15:00;fase de grupos;Red Bull Bragantino;Estudiantes;0;1;0-1;Vitória Fora
+2022;2022-05-18 19:00:00;fase de grupos;Nacional-URU;Vélez Sarsfield;2;3;2-3;Vitória Fora
+2022;2022-05-24 19:15:00;fase de grupos;Nacional-URU;Red Bull Bragantino;3;0;3-0;Vitória Casa
+2022;2022-05-24 19:15:00;fase de grupos;Vélez Sarsfield;Estudiantes;4;0;4-0;Vitória Casa
+2022;2022-04-06 19:00:00;fase de grupos;América-MG;Independiente del Valle;0;2;0-2;Vitória Fora
+2022;2022-04-06 21:00:00;fase de grupos;Tolima;Atlético-MG;0;2;0-2;Vitória Fora
+2022;2022-04-13 21:00:00;fase de grupos;Atlético-MG;América-MG;1;1;1-1;Empate
+2022;2022-04-13 23:00:00;fase de grupos;Independiente del Valle;Tolima;2;2;2-2;Empate
+2022;2022-04-26 21:30:00;fase de grupos;Independiente del Valle;Atlético-MG;1;1;1-1;Empate
+2022;2022-04-27 19:00:00;fase de grupos;América-MG;Tolima;2;3;2-3;Vitória Fora
+2022;2022-05-03 21:30:00;fase de grupos;América-MG;Atlético-MG;1;2;1-2;Vitória Fora
+2022;2022-05-04 23:00:00;fase de grupos;Tolima;Independiente del Valle;1;0;1-0;Vitória Casa
+2022;2022-05-18 21:00:00;fase de grupos;Tolima;América-MG;2;2;2-2;Empate
+2022;2022-05-19 19:00:00;fase de grupos;Atlético-MG;Independiente del Valle;3;1;3-1;Vitória Casa
+2022;2022-05-25 21:00:00;fase de grupos;Independiente del Valle;América-MG;3;0;3-0;Vitória Casa
+2022;2022-05-25 21:00:00;fase de grupos;Atlético-MG;Tolima;1;2;1-2;Vitória Fora
+2022;2022-04-05 21:30:00;fase de grupos;Deportivo Cali;Boca Juniors;2;0;2-0;Vitória Casa
+2022;2022-04-05 21:30:00;fase de grupos;Always Ready;Corinthians;2;0;2-0;Vitória Casa
+2022;2022-04-12 19:15:00;fase de grupos;Boca Juniors;Always Ready;2;0;2-0;Vitória Casa
+2022;2022-04-13 21:00:00;fase de grupos;Corinthians;Deportivo Cali;1;0;1-0;Vitória Casa
+2022;2022-04-26 21:30:00;fase de grupos;Corinthians;Boca Juniors;2;0;2-0;Vitória Casa
+2022;2022-04-28 23:00:00;fase de grupos;Always Ready;Deportivo Cali;2;2;2-2;Empate
+2022;2022-05-04 21:00:00;fase de grupos;Always Ready;Boca Juniors;0;1;0-1;Vitória Fora
+2022;2022-05-04 21:00:00;fase de grupos;Deportivo Cali;Corinthians;0;0;0-0;Empate
+2022;2022-05-17 21:30:00;fase de grupos;Boca Juniors;Corinthians;1;1;1-1;Empate
+2022;2022-05-19 23:00:00;fase de grupos;Deportivo Cali;Always Ready;3;0;3-0;Vitória Casa
+2022;2022-05-26 21:00:00;fase de grupos;Boca Juniors;Deportivo Cali;1;0;1-0;Vitória Casa
+2022;2022-05-26 21:00:00;fase de grupos;Corinthians;Always Ready;1;1;1-1;Empate
+2022;2022-04-06 21:00:00;fase de grupos;Alianza Lima;River Plate;0;1;0-1;Vitória Fora
+2022;2022-04-07 19:00:00;fase de grupos;Fortaleza;Colo-Colo;1;2;1-2;Vitória Fora
+2022;2022-04-13 19:00:00;fase de grupos;Colo-Colo;Alianza Lima;2;1;2-1;Vitória Casa
+2022;2022-04-13 21:00:00;fase de grupos;River Plate;Fortaleza;2;0;2-0;Vitória Casa
+2022;2022-04-27 19:00:00;fase de grupos;Fortaleza;Alianza Lima;2;1;2-1;Vitória Casa
+2022;2022-04-27 21:00:00;fase de grupos;Colo-Colo;River Plate;1;2;1-2;Vitória Fora
+2022;2022-05-05 19:00:00;fase de grupos;Fortaleza;River Plate;1;1;1-1;Empate
+2022;2022-05-05 23:00:00;fase de grupos;Alianza Lima;Colo-Colo;1;1;1-1;Empate
+2022;2022-05-18 23:00:00;fase de grupos;Alianza Lima;Fortaleza;0;2;0-2;Vitória Fora
+2022;2022-05-19 21:00:00;fase de grupos;River Plate;Colo-Colo;4;0;4-0;Vitória Casa
+2022;2022-05-25 19:00:00;fase de grupos;Colo-Colo;Fortaleza;3;4;3-4;Vitória Fora
+2022;2022-05-25 19:00:00;fase de grupos;River Plate;Alianza Lima;8;1;8-1;Vitória Casa
+2022;2022-04-05 19:15:00;fase de grupos;Olimpia-PAR;Cerro Porteño;0;0;0-0;Empate
+2022;2022-04-05 19:15:00;fase de grupos;Colón;Peñarol;2;1;2-1;Vitória Casa
+2022;2022-04-12 19:15:00;fase de grupos;Cerro Porteño;Colón;3;1;3-1;Vitória Casa
+2022;2022-04-12 21:30:00;fase de grupos;Peñarol;Olimpia-PAR;2;1;2-1;Vitória Casa
+2022;2022-04-27 21:00:00;fase de grupos;Cerro Porteño;Peñarol;1;0;1-0;Vitória Casa
+2022;2022-04-28 21:00:00;fase de grupos;Olimpia-PAR;Colón;0;0;0-0;Empate
+2022;2022-05-04 19:00:00;fase de grupos;Colón;Cerro Porteño;2;1;2-1;Vitória Casa
+2022;2022-05-04 21:00:00;fase de grupos;Olimpia-PAR;Peñarol;1;0;1-0;Vitória Casa
+2022;2022-05-17 19:15:00;fase de grupos;Peñarol;Cerro Porteño;0;0;0-0;Empate
+2022;2022-05-18 21:00:00;fase de grupos;Colón;Olimpia-PAR;2;1;2-1;Vitória Casa
+2022;2022-05-25 21:00:00;fase de grupos;Peñarol;Colón;2;1;2-1;Vitória Casa
+2022;2022-05-25 21:00:00;fase de grupos;Cerro Porteño;Olimpia-PAR;0;1;0-1;Vitória Fora
+2022;2022-04-05 22:00:00;fase de grupos;Sporting Cristal;Flamengo;0;2;0-2;Vitória Fora
+2022;2022-04-06 19:00:00;fase de grupos;Talleres;Universidad Católica;1;0;1-0;Vitória Casa
+2022;2022-04-12 19:15:00;fase de grupos;Universidad Católica;Sporting Cristal;2;1;2-1;Vitória Casa
+2022;2022-04-12 21:30:00;fase de grupos;Flamengo;Talleres;3;1;3-1;Vitória Casa
+2022;2022-04-26 21:30:00;fase de grupos;Talleres;Sporting Cristal;1;0;1-0;Vitória Casa
+2022;2022-04-28 19:00:00;fase de grupos;Universidad Católica;Flamengo;2;3;2-3;Vitória Fora
+2022;2022-05-04 19:00:00;fase de grupos;Talleres;Flamengo;2;2;2-2;Empate
+2022;2022-05-04 23:00:00;fase de grupos;Sporting Cristal;Universidad Católica;1;1;1-1;Empate
+2022;2022-05-17 21:30:00;fase de grupos;Sporting Cristal;Talleres;0;0;0-0;Empate
+2022;2022-05-17 21:30:00;fase de grupos;Flamengo;Universidad Católica;3;0;3-0;Vitória Casa
+2022;2022-05-24 21:30:00;fase de grupos;Flamengo;Sporting Cristal;2;1;2-1;Vitória Casa
+2022;2022-05-24 21:30:00;fase de grupos;Universidad Católica;Talleres;0;1;0-1;Vitória Fora
+2022;2022-06-28 21:30:00;oitavas de final;Athletico;Libertad-PAR;2;1;2-1;Vitória Casa
+2022;2022-07-05 21:30:00;oitavas de final;Libertad-PAR;Athletico;1;1;1-1;Empate
+2022;2022-06-30 21:30:00;oitavas de final;Fortaleza;Estudiantes;1;1;1-1;Empate
+2022;2022-07-07 21:30:00;oitavas de final;Estudiantes;Fortaleza;3;0;3-0;Vitória Casa
+2022;2022-06-29 19:15:00;oitavas de final;Cerro Porteño;Palmeiras;0;3;0-3;Vitória Fora
+2022;2022-07-06 19:15:00;oitavas de final;Palmeiras;Cerro Porteño;5;0;5-0;Vitória Casa
+2022;2022-06-28 19:15:00;oitavas de final;Emelec;Atlético-MG;1;1;1-1;Empate
+2022;2022-07-05 19:15:00;oitavas de final;Atlético-MG;Emelec;1;0;1-0;Vitória Casa
+2022;2022-06-29 21:30:00;oitavas de final;Tolima;Flamengo;0;1;0-1;Vitória Fora
+2022;2022-07-06 21:30:00;oitavas de final;Flamengo;Tolima;7;1;7-1;Vitória Casa
+2022;2022-06-28 21:30:00;oitavas de final;Corinthians;Boca Juniors;0;0;0-0;Empate
+2022;2022-07-05 21:30:00;oitavas de final;Boca Juniors;Corinthians;0;0;0-0;Empate
+2022;2022-06-29 19:15:00;oitavas de final;Talleres;Colón;1;1;1-1;Empate
+2022;2022-07-06 19:15:00;oitavas de final;Colón;Talleres;0;2;0-2;Vitória Fora
+2022;2022-06-29 21:30:00;oitavas de final;Vélez Sarsfield;River Plate;1;0;1-0;Vitória Casa
+2022;2022-07-06 21:30:00;oitavas de final;River Plate;Vélez Sarsfield;0;0;0-0;Empate
+2022;2022-08-04 21:30:00;quarterfinals;Athletico;Estudiantes;0;0;0-0;Empate
+2022;2022-08-11 21:30:00;quarterfinals;Estudiantes;Athletico;0;1;0-1;Vitória Fora
+2022;2022-08-03 21:30:00;quarterfinals;Atlético-MG;Palmeiras;2;2;2-2;Empate
+2022;2022-08-10 21:30:00;quarterfinals;Palmeiras;Atlético-MG;0;0;0-0;Empate
+2022;2022-08-02 21:30:00;quarterfinals;Corinthians;Flamengo;0;2;0-2;Vitória Fora
+2022;2022-08-09 21:30:00;quarterfinals;Flamengo;Corinthians;1;0;1-0;Vitória Casa
+2022;2022-08-03 21:30:00;quarterfinals;Vélez Sarsfield;Talleres;3;2;3-2;Vitória Casa
+2022;2022-08-10 21:30:00;quarterfinals;Talleres;Vélez Sarsfield;0;1;0-1;Vitória Fora
+2022;2022-08-30 21:30:00;semifinal;Athletico;Palmeiras;1;0;1-0;Vitória Casa
+2022;2022-09-06 21:30:00;semifinal;Palmeiras;Athletico;2;2;2-2;Empate
+2022;2022-08-31 21:30:00;semifinal;Vélez Sarsfield;Flamengo;0;4;0-4;Vitória Fora
+2022;2022-09-07 21:30:00;semifinal;Flamengo;Vélez Sarsfield;2;1;2-1;Vitória Casa
+2022;2022-10-29 17:00:00;final;Flamengo;Athletico;1;0;1-0;Vitória Casa
